@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on XinW Lab</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on XinW Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2016 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>2016</title>
+      <link>/categories/2016/</link>
+      <pubDate>Wed, 10 Aug 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2017</title>
+      <link>/categories/2017/</link>
+      <pubDate>Thu, 10 Aug 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annals of Surgery</title>
+      <link>/categories/annals-of-surgery/</link>
+      <pubDate>Sun, 10 Sep 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/annals-of-surgery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomaterials</title>
+      <link>/categories/biomaterials/</link>
+      <pubDate>Mon, 11 Dec 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/biomaterials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell Death and Differentiation</title>
+      <link>/categories/cell-death-and-differentiation/</link>
+      <pubDate>Mon, 09 Oct 2017 13:07:31 +0200</pubDate>
+      
+      <guid>/categories/cell-death-and-differentiation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clinical Cancer Research</title>
+      <link>/categories/clinical-cancer-research/</link>
+      <pubDate>Thu, 01 Mar 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/clinical-cancer-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,4 @@
+weight: 6
+name: "Packages/tools"
+icon: "fa fa-window-restore"
+description: "Developing bioconductor **packages** and **web tools** for analyzing next-generation sequencing data (**SPP2**), high-throughput screens (**HTSanalyzeR**), etc."
