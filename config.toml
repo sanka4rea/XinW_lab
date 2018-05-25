@@ -25,12 +25,6 @@ paginate = 10
     name = "Publications"
     url  = "/blog/"
     weight = 2
-
-[[menu.main]]
-    name = "Members"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 3
     
 [[menu.main]]
     name = "Resources"
@@ -94,7 +88,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "xin.wang@cityu.edu.hk"
 
     about_us = "<p>The homepage of Dr. XinWang's Lab in department of Biomedical Science of City University HongKong.</p>"
     copyright = "Copyright (c) 2016 - 2018, Lin Qi of Dr.Xin Wang's Lab. all rights reserved."
@@ -114,8 +108,8 @@ paginate = 10
     latitude = "22.334923"
     longitude = "114.173542"
 
-[Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+#[Permalinks]
+   # blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -128,7 +122,7 @@ paginate = 10
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
-    categories = false
+    categories = true
     tags = true
     search = true
 

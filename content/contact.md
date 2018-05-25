@@ -11,11 +11,11 @@ Please email Dr.Xin WANG (xin.wang@cityu.edu.hk) your CV directly.
 
 ## Program
 
-###Joint PhD Program with Cornell University
+### Joint PhD Program with Cornell University
 
 <p align="justify">Qualified students can be involved in the Interdisciplinary PhD Program between City University of Hong Kong and Cornell Univeristy School of Veterinary Medicine. Detailed information of the joint program can be found here.
 
-PhD Program in BMS and Hong Kong PhD Fellowship
+### PhD Program in BMS and Hong Kong PhD Fellowship
 
 <p align="justify">Perspective students should also note the deadlines for application to CityU, and please do check the Hong Kong fellowship scheme as well:
 
