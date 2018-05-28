@@ -168,6 +168,6 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "Recent Publications"
-    subtitle = "**We have done lots of amazing work!.**"
+    subtitle = " "
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
