@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "XinW Lab"
+title = "CityU Wang Lab"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -22,6 +22,11 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
+    name = "Members"
+    url  = "/members/"
+    weight = 2
+
+[[menu.main]]
     name = "Publications"
     url  = "/blog/"
     weight = 2
@@ -42,7 +47,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
+    url = "https://github.com/sanka4rea/XinW_lab"
     pre = "<i class='fa fa-2x fa-github'></i>"
 
 [[menu.topbar]]
@@ -96,7 +101,7 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "May 25, 2018"
 
-    logo = "img/logo.png"
+    logo = "img/logo4.png"
     address = """<p><strong>Hong Kong</strong>
         <br>Room 315
         <br>Block 2

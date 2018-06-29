@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on XinW Lab</title>
+    <title>Tags on CityU Wang Lab</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on XinW Lab</description>
+    <description>Recent content in Tags on CityU Wang Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Aug 2016 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2013 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>2013</title>
+      <link>/tags/2013/</link>
+      <pubDate>Sun, 19 May 2013 13:07:31 +0200</pubDate>
+      
+      <guid>/tags/2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>2016</title>
       <link>/tags/2016/</link>
-      <pubDate>Wed, 10 Aug 2016 13:07:31 +0200</pubDate>
+      <pubDate>Thu, 17 Nov 2016 13:07:31 +0200</pubDate>
       
       <guid>/tags/2016/</guid>
       <description></description>
@@ -32,9 +41,18 @@
     <item>
       <title>2018</title>
       <link>/tags/2018/</link>
-      <pubDate>Thu, 01 Mar 2018 13:50:46 +0200</pubDate>
+      <pubDate>Thu, 07 Jun 2018 13:07:31 +0200</pubDate>
       
       <guid>/tags/2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>All</title>
+      <link>/tags/all/</link>
+      <pubDate>Mon, 10 Aug 2015 13:07:31 +0200</pubDate>
+      
+      <guid>/tags/all/</guid>
       <description></description>
     </item>
     

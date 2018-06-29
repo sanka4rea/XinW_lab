@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genes Dev on CityU Wang Lab</title>
+    <link>/categories/genes-dev/</link>
+    <description>Recent content in Genes Dev on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Jan 2016 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/genes-dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The oncogenic BRD4-NUT chromatin regulator drives aberrant transcription within large topological domains</title>
+      <link>/blog/1601gd_wx/</link>
+      <pubDate>Mon, 11 Jan 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1601gd_wx/</guid>
+      <description>Author Alekseyenko AA†, Walsh EM†, Wang X†, Grayson AR, Hsi PT, Kharchenko PV, Kuroda MI, and French CA
+Genes Dev 2015, doi:10.1101/gad.267583.115.
+Abstract NUT midline carcinoma (NMC), a subtype of squamous cell cancer, is one of the most aggressive human solid malignancies known. NMC is driven by the creation of a translocation oncoprotein, BRD4-NUT, which blocks differentiation and drives growth of NMC cells. BRD4-NUT forms distinctive nuclear foci in patient tumors, which we found correlate with ∼100 unprecedented, hyperacetylated expanses of chromatin that reach up to 2 Mb in size.</description>
+    </item>
+    
+  </channel>
+</rss>
