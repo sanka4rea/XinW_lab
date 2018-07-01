@@ -6,19 +6,31 @@
     <description>Recent content in All on CityU Wang Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Aug 2112 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="/categories/all/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Selected Publications</title>
-      <link>/blog/selected-publications/</link>
-      <pubDate>Mon, 10 Aug 2015 13:07:31 +0200</pubDate>
+      <title>Publications List</title>
+      <link>/publications/1208all/</link>
+      <pubDate>Wed, 10 Aug 2112 13:07:31 +0200</pubDate>
       
-      <guid>/blog/selected-publications/</guid>
-      <description>Zhao L, Huang S, Mei S, Yang Z, Xu L, Zhou N, Yang Q, Shen Q, Wang W, Le X, Lau WB, Lau B, Wang X, Yi T, Zhao X, Wei Y, Warner M, Gustafsson JA, Zhou S. Pharmacological activation of estrogen receptor beta augments innate immunity to suppress cancer metastasis. PNAS 2018, 115(16):E3673-E3681
- Xu Z, Wang W, Ren Y, Zhang W, Fang P, Huang L, Wang X and Shi P.</description>
+      <guid>/publications/1208all/</guid>
+      <description>Google scholar of Dr. Xin Wang 
+List He L, Gomes AP&amp;dagger;, Wang X&amp;dagger;, Yoon SO, Lee G, Nagiec M, Cho S, Chavez A, Islam T, Yu Y, Asara JM, Kim BY, Blenis J. mTORC1 Promotes Metabolic Reprogramming by the Suppression of GSK3-Dependent Foxk1 Phosphorylation. Molecular Cell 2018, doi:10.1016/j.molcel.2018.04.024
+Kandimalla R&amp;dagger;, Gao F&amp;dagger;, Matsuyama T, Ishikawa T, Uetake H, Takahashi N, Yamada Y, Becerra C, Kopetz S, Wang X* and Goel A*.</description>
+    </item>
+    
+    <item>
+      <title>Publications List</title>
+      <link>/blog/1208all/</link>
+      <pubDate>Wed, 10 Aug 2112 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1208all/</guid>
+      <description>Google scholar of Dr. Xin Wang 
+List He L, Gomes AP&amp;dagger;, Wang X&amp;dagger;, Yoon SO, Lee G, Nagiec M, Cho S, Chavez A, Islam T, Yu Y, Asara JM, Kim BY, Blenis J. mTORC1 Promotes Metabolic Reprogramming by the Suppression of GSK3-Dependent Foxk1 Phosphorylation. Molecular Cell 2018, doi:10.1016/j.molcel.2018.04.024
+Kandimalla R&amp;dagger;, Gao F&amp;dagger;, Matsuyama T, Ishikawa T, Uetake H, Takahashi N, Yamada Y, Becerra C, Kopetz S, Wang X* and Goel A*.</description>
     </item>
     
   </channel>

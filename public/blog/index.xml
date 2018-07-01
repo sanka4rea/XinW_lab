@@ -6,10 +6,21 @@
     <description>Recent content in Blogs on CityU Wang Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 10 Aug 2112 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Publications List</title>
+      <link>/blog/1208all/</link>
+      <pubDate>Wed, 10 Aug 2112 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1208all/</guid>
+      <description>Google scholar of Dr. Xin Wang 
+List He L, Gomes AP&amp;dagger;, Wang X&amp;dagger;, Yoon SO, Lee G, Nagiec M, Cho S, Chavez A, Islam T, Yu Y, Asara JM, Kim BY, Blenis J. mTORC1 Promotes Metabolic Reprogramming by the Suppression of GSK3-Dependent Foxk1 Phosphorylation. Molecular Cell 2018, doi:10.1016/j.molcel.2018.04.024
+Kandimalla R&amp;dagger;, Gao F&amp;dagger;, Matsuyama T, Ishikawa T, Uetake H, Takahashi N, Yamada Y, Becerra C, Kopetz S, Wang X* and Goel A*.</description>
+    </item>
     
     <item>
       <title>mTORC1 Promotes Metabolic Reprogramming by the Suppression of GSK3-Dependent Foxk1 Phosphorylation.</title>
@@ -62,7 +73,7 @@ Abstract Background Ovarian cancer constitutes one of the most lethal gynecologi
       <pubDate>Thu, 30 Nov 2017 13:50:46 +0200</pubDate>
       
       <guid>/blog/1702gas_gao/</guid>
-      <description>Author Ozawa T†, Kandimalla R†, Gao F†, Nozawa H, Hata K, Nagata H, Okada S, Izumi D, Baba H, Fleshman J, Wang X*, Watanabe T, Goel A.
+      <description>Author Ozawa T†, Kandimalla R†, Gao F†, Nozawa H, Hata K, Nagata H, Okada S, Izumi D, Baba H, Fleshman J, Wang X, Watanabe T, Goel A.
 Gastroenterology 2017 Abstract Most T1 colorectal cancers treated by radical surgery can now be cured by endoscopic submucosal dissection. Although 70%-80% of T1 colorectal cancers are classified as high risk, &amp;lt;16% of these patients actually have lymph node metastases. Biomarkers are needed to identify patients with T1 cancers with the highest risk of metastasis, to prevent unnecessary radical surgery.</description>
     </item>
     
@@ -83,7 +94,7 @@ Abstract Colorectal cancer (CRC) is a highly heterogeneous disease both from a m
       <pubDate>Sun, 10 Sep 2017 13:07:31 +0200</pubDate>
       
       <guid>/blog/1703ann_gao/</guid>
-      <description>Author Fuminori Sonohara; Feng Gao; Naoki Iwata; Mitsuro Kanda; Masahiko Koike; Naoki Takahashi; Yasuhide Yamada; Yasuhiro Kodera; Xin Wang; Ajay Goel
+      <description>Author Fuminori Sonohara; Feng Gao; Naoki Iwata; Mitsuro Kanda; Masahiko Koike; Naoki Takahashi; Yasuhide Yamada; Yasuhiro Kodera; Wang X*; Ajay Goel
 Annals of Surgery 2017, doi:10.1097/SLA.0000000000002622
 Objective This study aimed to develop a gene-expression signature for identification of lymph node (LN) metastasis in esophageal squamous cell carcinoma (ESCC) patients.
 Summary of Background Data LN metastasis is recognized as the most important independent risk factor for therapeutic decision-making of ESCC patients.</description>
@@ -96,7 +107,7 @@ Summary of Background Data LN metastasis is recognized as the most important ind
       
       <guid>/blog/1604onco_wx/</guid>
       <description>Author Fessler E, Jansen M, De Sousa E Melo F, Zhao L, Prasetyanti PR, Rodermond H, Kandimalla R, Linnekamp JF, Franitza M, van Hooff SR, de Jong JH, Oppeneer SC, van Noesel CJM, Dekker E, Stassi G, Wang X*, Medema JP*, and Vermeulen L*.
-Cell Death and Differentiation 2018, doi:10.1038/onc.2016.134
+Oncogene 2016, doi:10.1038/onc.2016.134
 Abstract Colorectal cancer (CRC) is a heterogeneous disease posing a challenge for accurate classification and treatment of this malignancy. There is no common genetic molecular feature that would allow for the identification of patients at risk for developing recurrences and thus selecting patients who would benefit from more stringent therapies still poses a major clinical challenge.</description>
     </item>
     
@@ -129,16 +140,6 @@ Abstract Genes encoding human β-type globin undergo a developmental switch from
       <description>Author Alekseyenko AA†, Walsh EM†, Wang X†, Grayson AR, Hsi PT, Kharchenko PV, Kuroda MI, and French CA
 Genes Dev 2015, doi:10.1101/gad.267583.115.
 Abstract NUT midline carcinoma (NMC), a subtype of squamous cell cancer, is one of the most aggressive human solid malignancies known. NMC is driven by the creation of a translocation oncoprotein, BRD4-NUT, which blocks differentiation and drives growth of NMC cells. BRD4-NUT forms distinctive nuclear foci in patient tumors, which we found correlate with ∼100 unprecedented, hyperacetylated expanses of chromatin that reach up to 2 Mb in size.</description>
-    </item>
-    
-    <item>
-      <title>Selected Publications</title>
-      <link>/blog/selected-publications/</link>
-      <pubDate>Mon, 10 Aug 2015 13:07:31 +0200</pubDate>
-      
-      <guid>/blog/selected-publications/</guid>
-      <description>Zhao L, Huang S, Mei S, Yang Z, Xu L, Zhou N, Yang Q, Shen Q, Wang W, Le X, Lau WB, Lau B, Wang X, Yi T, Zhao X, Wei Y, Warner M, Gustafsson JA, Zhou S. Pharmacological activation of estrogen receptor beta augments innate immunity to suppress cancer metastasis. PNAS 2018, 115(16):E3673-E3681
- Xu Z, Wang W, Ren Y, Zhang W, Fang P, Huang L, Wang X and Shi P.</description>
     </item>
     
     <item>

@@ -29,7 +29,7 @@ paginate = 10
 [[menu.main]]
     name = "Publications"
     url  = "/blog/"
-    weight = 2
+    weight = 3
     
 [[menu.main]]
     name = "Resources"
@@ -69,7 +69,7 @@ paginate = 10
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/blog/"
+    viewMorePostLink = "/Publications/"
     author = "Lin Qi"
     defaultKeywords = ["devows", "hugo", "go"]
     defaultDescription = "Site template made by devcows using hugo"
@@ -93,7 +93,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "xin.wang@cityu.edu.hk"
+    #email = "xin.wang@cityu.edu.hk"
 
     about_us = "<p>The homepage of Dr. XinWang's Lab in department of Biomedical Science of City University HongKong.</p>"
     copyright = "Copyright (c) 2016 - 2018, Lin Qi of Dr.Xin Wang's Lab. all rights reserved."
@@ -103,10 +103,11 @@ paginate = 10
 
     logo = "img/logo4.png"
     address = """<p><strong>Hong Kong</strong>
-        <br>Room 315
-        <br>Block 2
-        <br>To Yuen Building
+        <br>Room 315, Block 2
+        <br>31 To Yuen Street
+        <br>Kowloon Tong
         <br>City University of Hong Kong
+        <br>Phone:3442 6967
         
       </p>
       """
@@ -151,7 +152,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Members"
-    subtitle = "**We always welcome outsanding bioinformatics students to join our lab. Please see *Contact* for details.**"
+    subtitle = "**We always welcome outsanding bioinformatics students to join our lab. Please see <u>**Contact**</u> for details.**"
 
 [params.see_more]
     enable = false
