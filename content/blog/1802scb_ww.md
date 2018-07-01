@@ -1,5 +1,5 @@
 +++
-title = "Consensus molecular subtypes of colorectal cancer are recapitulated in in vitro and in vivo models."
+title = "Molecular subtyping of colorectal cancer: recent progress, new challenges and emerging opportunities."
 date = "2018-05-17T13:07:31+02:00"
 tags = ["2018"]
 categories = ["Semin Cancer Biol"]
