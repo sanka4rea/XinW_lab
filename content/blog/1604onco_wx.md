@@ -8,7 +8,7 @@ banner = "img/banners/1604.png"
 
 <img src="/img/banners/1604.png" width= "500" height="500" alt="brain" align=center />
 
-### **Author**
+### **Authors**
 
 Fessler E, Jansen M, De Sousa E Melo F, Zhao L, Prasetyanti PR, Rodermond H, Kandimalla R, Linnekamp JF, Franitza M, van Hooff SR, de Jong JH, Oppeneer SC, van Noesel CJM, Dekker E, Stassi G, **<u>Wang X</u>**\*, Medema JP\*, and Vermeulen L\*.
 

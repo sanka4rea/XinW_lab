@@ -7,7 +7,7 @@ banner = "img/banners/1702.png"
 +++
 <img src="/img/banners/1702.png" width= "500" height="400" alt="brain" align=center />
 
-### **Author**
+### **Authors**
 
 Ozawa T†, Kandimalla R†, <u>Gao F†</u>, Nozawa H, Hata K, Nagata H, Okada S, Izumi D, Baba H, Fleshman J, **<u>Wang X</u>**, Watanabe T, Goel A. 
 

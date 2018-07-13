@@ -7,7 +7,7 @@ banner = "img/banners/annu.jpg"
 +++
 <img src="/img/banners/annu.jpg" width= "500" height="400" alt="brain" align=center />
 
-### **Author**
+### **Authors**
 
 Fuminori Sonohara; <U>Feng Gao</U>; Naoki Iwata; Mitsuro Kanda; Masahiko Koike; Naoki Takahashi; Yasuhide Yamada; Yasuhiro Kodera; **<u>Wang X</u>**\*; Ajay Goel
 

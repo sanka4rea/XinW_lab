@@ -6,7 +6,7 @@ categories = ["Clinical cancer research"]
 banner = "img/banners/colon.png"
 +++
 
-### **Author**
+### **Authors**
 
 Kandimalla R†, <U>Gao F†</U>, Matsuyama T, Ishikawa T, Uetake H, Takahashi N, Yamada Y, Becerra C, Kopetz S, **<u>Wang X</u>\*** and Goel A\*. 
 

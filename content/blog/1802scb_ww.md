@@ -8,7 +8,7 @@ banner = "img/banners/1802.png"
 
 <img src="/img/banners/1802.png" width= "500" height="500" alt="brain" align=center />
 
-### **Author**
+### **Authors**
 
 <U>Wang W†</U>, Kandimalla R†, <U>Huang H†</U>, <U>Zhu L</U>, <U>Li Y</U>, <U>Gao F</U>, Goel A*,**<u>Wang X</u>\***
 

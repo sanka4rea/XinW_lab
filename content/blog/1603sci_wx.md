@@ -8,7 +8,7 @@ banner = "img/banners/1603.png"
 
 <img src="/img/banners/1603.png" width= "500" height="400" alt="brain" align=center />
 
-### **Author**
+### **Authors**
 
 Masuda T, Wang X, Maeda M, Canver MC, Sher F, Funnell APW, Fisher C, Suciu M, Martyn GE, Norton LJ, Zhu C, Kurita R, Nakamura Y, Xu J, Higgs DR, Crossley M, Bauer DE, Orkin SH, Kharchenko PV, Maeda T
 

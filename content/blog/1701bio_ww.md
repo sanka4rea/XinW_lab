@@ -8,7 +8,7 @@ banner = "img/banners/brain.jpg"
 
 <img src="/img/banners/brain.jpg" alt="brain" align=center />
 
-### **Author**
+### **Authors**
 
 Zhen Xua, <U>Wang W</U>, Yutian Ren, Wenchong Zhang, Peilin Fang, Linfeng Huang, **XinWang**, Peng Shi. 
 
