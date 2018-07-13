@@ -28,7 +28,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Publications"
-    url  = "/blog/"
+    url  = "/blog/1208all"
     weight = 3
     
 [[menu.main]]

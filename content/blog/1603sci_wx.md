@@ -12,7 +12,7 @@ banner = "img/banners/1603.png"
 
 Masuda T, Wang X, Maeda M, Canver MC, Sher F, Funnell APW, Fisher C, Suciu M, Martyn GE, Norton LJ, Zhu C, Kurita R, Nakamura Y, Xu J, Higgs DR, Crossley M, Bauer DE, Orkin SH, Kharchenko PV, Maeda T
 
-**Science ** 2016, doi:10.1126/science.aad3312.
+**Science** 2016, doi:10.1126/science.aad3312.
 
 ### **Abstract**
 
