@@ -27,9 +27,9 @@ keywords = ["members"]
 
 <br>
 
-Feng is mainly focusing on applying artificial intelligence technologies such as deep learning to cancer research, 
+Feng is mainly focusing on applying artificial intelligence techniques such as deep learning to cancer research, 
 
-including but not limited to *patient stratification, biomarker and target discovery*.
+including but not limited to patient stratification, biomarker and target discovery.
 
 <br>**Linkedin**: https://hk.linkedin.com/in/feng-gao-3b7bb33a
 
@@ -45,7 +45,7 @@ including but not limited to *patient stratification, biomarker and target disco
 
 Wei is currently working on cancer prognosis prediction, 
 
-including building a new model to predict relapse and identifying predictive biomarkers.
+such as building a new model to predict relapse and identifying predictive biomarkers.
 
 **PhD Student. M.S in Microbiology**
 
@@ -57,9 +57,9 @@ including building a new model to predict relapse and identifying predictive bio
 
 <br>
 
-Xin DUAN has expertise at image processing and is currently working on 
+Xin DUAN has expertise in image processing and is currently working on 
 
-drug screening using brain image in zebrafish model.
+drug screening by analyzing brain activity maps of zebrafish model.
 
 **Research Asistant. M.E in Pattern Recognition**
 
@@ -71,9 +71,9 @@ drug screening using brain image in zebrafish model.
 
 <br>
 
-Yuchen started focusing on bioinformatics during master study. Now his interests are 
+Yuchen started focusing on bioinformatics during master study. Now he is mainly 
 
-mainly on cancer-specific regulatory network analysis and data mining problems in epigenetics.
+working on cancer-specific regulatory network inference. 
 
 **PhD Student. M.E in Pattern Recognition**
 
@@ -85,7 +85,7 @@ mainly on cancer-specific regulatory network analysis and data mining problems i
 
 <br>
 
-Lina is in her 2nd year of PhD, devoting herself to applying bioinformatics into epigenetics.
+Lina is working on HTSanalyzeR2 and biomarker development.
 
 **Joint PhD Student with Cornell University.**
 
@@ -97,7 +97,9 @@ Lina is in her 2nd year of PhD, devoting herself to applying bioinformatics into
 
 <br>
 
-Hao is mainly focusing on applying bioinformatics to cancer research.
+Hao's research is focused on integrative analysis of ChIP-seq and RNA-seq data to dissect 
+
+epigenetic regulations in cancer.
 
 **Joint PhD Student with Cornell University.**
 
@@ -109,9 +111,7 @@ Hao is mainly focusing on applying bioinformatics to cancer research.
 
 <br>
 
-Ying is currently working on analyzing intra-tumor and inter-tumor heterogeneity 
-
-and developing a model for a combinatorial prognostic biomarker.
+Ying is currently working on cancer subtyping by linking intra-tumor and inter-tumor heterogeneity.
 
 **PhD Student. M.S in Bioinformatics**
 
@@ -123,9 +123,9 @@ and developing a model for a combinatorial prognostic biomarker.
 
 <br>
 
-Lin was started to get involved in research of bioinformatics during his master study. 
+Lin is working on digital pathology by integrative analysis of clinicopathological, molecular
 
-He is currently working on integrate analysis of multi-omic data.
+and cancer imaging data.
 
 **PhD Student. M.E in Pattern Recognition**
 

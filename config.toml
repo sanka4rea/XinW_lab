@@ -102,11 +102,11 @@ paginate = 10
     date_format = "May 25, 2018"
 
     logo = "img/logo4.png"
-    address = """<p><strong>Hong Kong</strong>
-        <br>Room 315, Block 2
+    address = """<p>Room 315, Block 2
         <br>31 To Yuen Street
-        <br>Kowloon Tong
         <br>City University of Hong Kong
+        <br>Kowloon Tong
+        <br><strong>Hong Kong</strong>
         <br>Phone:3442 6967
         
       </p>

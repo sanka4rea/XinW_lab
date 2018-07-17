@@ -9,11 +9,11 @@ We always look for prospective PhD students with interests in bioinformatics and
 
 <p align="justify">Candidates with academic background in <u>computer science</u>, <u>bioinformatics</u>, <u>computational biology</u>, <u>artificial intelligence</u>, <u>pattern recognition</u>, as well as <u>other related disciplines</u> are especially welcomed and encouraged to contact **Dr. Xin Wang** (**xin.wang@cityu.edu.hk**). 
 
-## Program
+## PhD Studentships
 
 #### PhD Program in BMS
 
-<p align="justify">Perspective students should note the deadlines for application to CityU:
+<p align="justify">Prospective students should note the deadlines for application to CityU:
 
 http://www.cityu.edu.hk/bms/prog/rpg/aim.htm
 
