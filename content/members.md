@@ -101,7 +101,7 @@ Hao's research is focused on integrative analysis of ChIP-seq and RNA-seq data t
 
 epigenetic regulations in cancer.
 
-**Joint PhD Student with Cornell University. M.S. Biophysics**
+**Joint PhD Student with Cornell University. M.S.in Biophysics**
 
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
