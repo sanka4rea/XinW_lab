@@ -7,7 +7,7 @@ id = "contact"
 
 We always look for prospective PhD students with interests in bioinformatics and computational biology applied to cancer research. 
 
-<p align="justify">Candidates with academic background in <u>computer science</u>, <u>bioinformatics</u>, <u>computational biology</u>, <u>artificial intelligence</u>, <u>pattern recognition</u>, as well as <u>other related disciplines</u> are especially welcomed and encouraged to contact **Dr. Xin Wang** (**xin.wang@cityu.edu.hk**). 
+<p align="justify">Candidates with academic background in **computer science**, **bioinformatics**, **computational biology**, **artificial intelligence**, **pattern recognition**, as well as other **related disciplines** are especially welcomed and encouraged to contact **Dr. Xin Wang** (***xin.wang@cityu.edu.hk***). 
 
 ## PhD Studentships
 
