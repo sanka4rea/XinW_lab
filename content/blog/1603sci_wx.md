@@ -20,4 +20,4 @@ Masuda T, Wang X, Maeda M, Canver MC, Sher F, Funnell APW, Fisher C, Suciu M, Ma
 
 <p align="justify"> However, the mechanisms that repress HbF in adults remain unclear. We found that the LRF/ZBTB7A transcription factor occupies fetal γ-globin genes and maintains the nucleosome density necessary for γ-globin gene silencing in adults, and that LRF confers its repressive activity through a NuRD repressor complex independent of the fetal globin repressor BCL11A. Our study may provide additional opportunities for therapeutic targeting in the treatment of hemoglobinopathies.
 
-### **Full txt could be found in [here](https://www.ncbi.nlm.nih.gov/pubmed/26816381)**
+### **Full text could be found in [here](https://www.ncbi.nlm.nih.gov/pubmed/26816381)**

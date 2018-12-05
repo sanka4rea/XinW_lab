@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>/blog/1805onco_ww/</loc>
+    <lastmod>2018-11-26T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/1806nc_dx/</loc>
+    <lastmod>2018-11-03T13:07:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publications/1804mc_wx/</loc>
     <lastmod>2018-06-07T13:07:31+02:00</lastmod>
   </url>
@@ -157,7 +167,7 @@
   
   <url>
     <loc>/tags/2018/</loc>
-    <lastmod>2018-06-07T13:07:31+02:00</lastmod>
+    <lastmod>2018-11-26T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -187,7 +197,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-06-07T13:07:31+02:00</lastmod>
+    <lastmod>2018-11-26T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -248,6 +258,12 @@
   </url>
   
   <url>
+    <loc>/categories/nature-communication/</loc>
+    <lastmod>2018-11-03T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/nature-medicine/</loc>
     <lastmod>2016-03-13T13:07:31+02:00</lastmod>
     <priority>0</priority>
@@ -255,7 +271,7 @@
   
   <url>
     <loc>/categories/oncogene/</loc>
-    <lastmod>2016-11-17T13:07:31+02:00</lastmod>
+    <lastmod>2018-11-26T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   

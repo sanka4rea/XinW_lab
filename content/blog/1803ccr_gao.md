@@ -32,6 +32,6 @@ Kandimalla R†, <U>Gao F†</U>, Matsuyama T, Ishikawa T, Uetake H, Takahashi N
 
 <p align="justify">Colorectal cancer, recurrence, miRNA, adjuvant therapy, prognosis
 
-### **Full txt could be found [here](https://www.ncbi.nlm.nih.gov/pubmed/29514841)**
+### **Full text could be found [here](https://www.ncbi.nlm.nih.gov/pubmed/29514841)**
 
 [*Image citation*](https://www.lorientlejour.com/author/91-Nada-MERHI)

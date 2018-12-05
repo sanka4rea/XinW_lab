@@ -24,4 +24,4 @@ banner = "img/banners/1802.png"
 
 Colorectal cancer; Heterogeneity; Molecular subtyping; Personalized medicine
 
-### **Full txt could be found in [here](https://www.ncbi.nlm.nih.gov/pubmed/29775690)**
+### **Full text could be found in [here](https://www.ncbi.nlm.nih.gov/pubmed/29775690)**

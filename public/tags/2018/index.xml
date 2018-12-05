@@ -6,10 +6,33 @@
     <description>Recent content in 2018 on CityU Wang Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Jun 2018 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Nov 2018 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="/tags/2018/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Integrative network biology analysis identifies miR-508-3p as the determinant for the mesenchymal identity and a strong prognostic biomarker of ovarian cancer.</title>
+      <link>/blog/1805onco_ww/</link>
+      <pubDate>Mon, 26 Nov 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1805onco_ww/</guid>
+      <description>Authors Zhao L&amp;dagger;, Wang W&amp;dagger;, Xu L, Yi T, Zhao X, Wei Y, Vermeulen L, Goel A, Zhou S* and Wang X*
+Oncogene 2018, doi:https://doi.org/10.1038/s41388-018-0577-5
+Abstract Ovarian cancer is a heterogeneous malignancy that poses tremendous clinical challenge. Based on unsupervised classification of whole-genome gene expression profiles, four molecular subtypes of ovarian cancer were recently identified. However, single-driver molecular events specific to these subtypes have not been clearly elucidated.
+We aim to characterize the regulatory mechanisms underlying the poor prognosis mesenchymal subtype of ovarian cancer using a systems biology approach, involving a variety of molecular modalities including gene and microRNA expression profiles.</description>
+    </item>
+    
+    <item>
+      <title>High-throughput Brain Activity Mapping and Machine Learning as a Foundation for Systems Neuropharmacology.</title>
+      <link>/blog/1806nc_dx/</link>
+      <pubDate>Sat, 03 Nov 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1806nc_dx/</guid>
+      <description>Authors Lin X&amp;dagger;, Duan X&amp;dagger;, Jacobs C, Ullmann J, Chan CY, Chen S, Cheng SH, Zhao WN, Poduri A, Wang X*, Haggarty SJ*, Shi P*
+Nature Communications 2018, doi:https://doi.org/10.1038/s41467-018-07289-5
+Abstract Technologies for mapping the spatial and temporal patterns of neural activity have advanced our understanding of brain function in both health and disease. An important application of these technologies is the discovery of next-generation neurotherapeutics for neurological and psychiatric disorders.</description>
+    </item>
     
     <item>
       <title>mTORC1 Promotes Metabolic Reprogramming by the Suppression of GSK3-Dependent Foxk1 Phosphorylation.</title>

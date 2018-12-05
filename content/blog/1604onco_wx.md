@@ -22,4 +22,4 @@ Fessler E, Jansen M, De Sousa E Melo F, Zhao L, Prasetyanti PR, Rodermond H, Kan
 
 <p align="justify">Furthermore, our data show that two epigenetic marks, namely the methylation of the two miR-200 promoter regions, can identify tumors belonging to the mesenchymal subtype and is predictive of disease-free survival in CRC patients. Importantly, epigenetic silencing of the miR-200 family is also detected in epithelial CRC cell lines that belong to the mesenchymal CMS. We thus show that determining regulatory networks is a powerful strategy to define drivers of distinct cancer subtypes, which possess the ability to identify subtype affiliation and to shed light on biological behavior.
 
-### **Full txt could be found in [here](https://www.ncbi.nlm.nih.gov/pubmed/27157610)**
+### **Full text could be found in [here](https://www.ncbi.nlm.nih.gov/pubmed/27157610)**

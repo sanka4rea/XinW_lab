@@ -33,6 +33,6 @@ Fuminori Sonohara; <U>Feng Gao</U>; Naoki Iwata; Mitsuro Kanda; Masahiko Koike; 
 
 <p align="justify">Our novel 5-gene panel is a robust diagnostic tool for LN metastasis, especially in early-T stage ESCC patients, with a promising clinical potential.
 
-### **Full txt could be found in [here](https://www.ncbi.nlm.nih.gov/pubmed/29240008)**
+### **Full text could be found in [here](https://www.ncbi.nlm.nih.gov/pubmed/29240008)**
 
 [*Image citation*](https://www.cancer.gov/publications/dictionaries/cancer-terms/def/stage-iii-esophageal-squamous-cell-carcinoma)

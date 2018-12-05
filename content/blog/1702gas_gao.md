@@ -23,4 +23,4 @@ Ozawa T†, Kandimalla R†, <u>Gao F†</u>, Nozawa H, Hata K, Nagata H, Okada 
 
 <p align="justify">CRC; Colon Cancer; Colorectal Cancer; Stratification
 
-### **Full txt could be found [here](https://www.gastrojournal.org/article/S0016-5085(17)36664-7/abstract)**
+### **Full text could be found [here](https://www.gastrojournal.org/article/S0016-5085(17)36664-7/abstract)**

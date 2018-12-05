@@ -6,10 +6,22 @@
     <description>Recent content in Oncogene on CityU Wang Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Nov 2016 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 Nov 2018 13:07:31 +0200</lastBuildDate>
     
 	<atom:link href="/categories/oncogene/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Integrative network biology analysis identifies miR-508-3p as the determinant for the mesenchymal identity and a strong prognostic biomarker of ovarian cancer.</title>
+      <link>/blog/1805onco_ww/</link>
+      <pubDate>Mon, 26 Nov 2018 13:07:31 +0200</pubDate>
+      
+      <guid>/blog/1805onco_ww/</guid>
+      <description>Authors Zhao L&amp;dagger;, Wang W&amp;dagger;, Xu L, Yi T, Zhao X, Wei Y, Vermeulen L, Goel A, Zhou S* and Wang X*
+Oncogene 2018, doi:https://doi.org/10.1038/s41388-018-0577-5
+Abstract Ovarian cancer is a heterogeneous malignancy that poses tremendous clinical challenge. Based on unsupervised classification of whole-genome gene expression profiles, four molecular subtypes of ovarian cancer were recently identified. However, single-driver molecular events specific to these subtypes have not been clearly elucidated.
+We aim to characterize the regulatory mechanisms underlying the poor prognosis mesenchymal subtype of ovarian cancer using a systems biology approach, involving a variety of molecular modalities including gene and microRNA expression profiles.</description>
+    </item>
     
     <item>
       <title>A multidimensional network approach reveals microRNAs as determinants of the mesenchymal colorectal cancer subtype.</title>
