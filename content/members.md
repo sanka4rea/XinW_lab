@@ -1,21 +1,21 @@
 +++
 title = "Members"
-description = "We always welcome outsanding bioinformatics students to join our lab. Please see Contact for details."
+description = "We always welcome outstanding bioinformatics students to join our lab. Please see Contact for details."
 keywords = ["members"]
 +++
 
-
+<div align=center>
 ## Xin Wang
 
-<img src="/img/testimonials/xw.jpg" alt="brain" align=center />
+<div align=center><img src="/img/testimonials/xw.jpg" alt="brain" />
 
 <br>
 
-**Assistant Professor, Biomedical Sciences, City University HK**
+<p align="center">**Assistant Professor, Biomedical Sciences, City University HK**
 
-<p align="justify">**Postdoctoral Fellow**, Harvard Medical School, Supervisor: [Dr. Peter Kharchenko](http://pklab.med.harvard.edu/) 
+<p align="center">**Postdoctoral Fellow**, Harvard Medical School, Supervisor: [Dr. Peter Kharchenko](http://pklab.med.harvard.edu/) 
 
-**PhD**, Department of Oncology and Cancer Research UK Cambridge Institute, University of Cambridge, Supervisor: [Dr. Florian Markowetz](http://www.markowetzlab.org/). <br><br>**Office**: 1B-102, 1/F, Block 1, To Yuen Building <br>**Phone**: +852 3442-2367 <br>**Fax**: +852 3442-0549 <br>**Email**: xin.wang@cityu.edu.hk
+<p align="center">**PhD**, Department of Oncology and Cancer Research UK Cambridge Institute, University of Cambridge, Supervisor: [Dr. Florian Markowetz](http://www.markowetzlab.org/). <br><br>**Office**: 1B-102, 1/F, Block 1, To Yuen Building <br>**Phone**: +852 3442-2367 <br>**Fax**: +852 3442-0549 <br>**Email**: xin.wang@cityu.edu.hk
 
 [**Department webpage**](http://www.cityu.edu.hk/bms/profile/xinwang.htm)
 
