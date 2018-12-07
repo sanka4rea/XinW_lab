@@ -4,7 +4,7 @@ description = "Software and Hardware Resources"
 keywords = ["resources","tutorials","rstudio","galaxy"]
 +++
 
-
+<div align=center>
 ## Softwares
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
@@ -19,7 +19,7 @@ A **deep learning-based framework** for cancer classification. ***https://cityuh
 
 A **R pacakge** for downstream analysis of high-throughput CRISPR/RNAi screens with interactive shiny report.
 
-<p align="justify">***https://github.com/CityUHK-CompBio/HTSanalyzeR2***
+<p align="center">***https://github.com/CityUHK-CompBio/HTSanalyzeR2***
 
 **Tutorial website:** ***https://htsanalyzer2.netlify.com/***
 
@@ -52,7 +52,7 @@ A website contains **bioinformatic** related tutorials, databases, tools and jou
 
 ### [**Rstudio server:**](http://144.214.26.67:8787/auth-sign-in)
 
-<p align="justify">Click [**here**](http://144.214.26.36:8887/auth-sign-in) to access the **Rstudio server** in the Wang Lab. 
+<p align="center">Click [**here**](http://144.214.26.36:8887/auth-sign-in) to access the **Rstudio server** in the Wang Lab. 
 
 Please contact **xin.wang@cityu.edu.hk** if you need an account.
 
@@ -63,7 +63,7 @@ Please contact **xin.wang@cityu.edu.hk** if you need an account.
 
 ### [**Galaxy:**](http://144.214.26.35:8080/)
 
-<p align="justify">Click [**here**](http://144.214.26.35:8080/) to access the **Galaxy server** in the Wang Lab. 
+<p align="center">Click [**here**](http://144.214.26.35:8080/) to access the **Galaxy server** in the Wang Lab. 
 
 <br>
 
@@ -73,7 +73,7 @@ Please contact **xin.wang@cityu.edu.hk** if you need an account.
 
 ### [**UCSC Genome Browser:**](http://144.214.26.35:8038/index.html)
 
-<p align="justify">Click [**here**](http://144.214.26.35:8038/index.html) to access the **UCSC Genome Browser** in the Wang Lab. 
+<p align="center">Click [**here**](http://144.214.26.35:8038/index.html) to access the **UCSC Genome Browser** in the Wang Lab. 
 
 <br>
 

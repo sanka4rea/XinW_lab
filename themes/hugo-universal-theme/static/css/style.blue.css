@@ -1156,12 +1156,12 @@ fieldset[disabled] .btn-template-primary.active {
   width: 100%;
   height: 100%;
   background: #467fbf;
-  opacity: 0.9;
-  filter: alpha(opacity=90);
+  opacity: 0.7;
+  filter: alpha(opacity=70);
 }
 .home-carousel .owl-carousel {
-  padding-top: 60px;
-  padding-bottom: 20px;
+  padding-top: 80px;
+  padding-bottom: 30px;
 }
 .home-carousel .owl-theme .owl-controls .owl-page span {
   background: #666;
@@ -1178,8 +1178,8 @@ fieldset[disabled] .btn-template-primary.active {
   }
 }
 @media (min-width: 992px) {
-  .home-carousel .right {
-    text-align: right;
+  .home-carousel .justify {
+    text-align: justify;
   }
 }
 .home-carousel h1,
@@ -1191,19 +1191,19 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .home-carousel h1 {
   font-weight: 700;
-  text-transform: uppercase;
-  font-size: 46px;
-  letter-spacing: 0.08em;
+  text-transform: text-uppercase;
+  font-size: 26px;
+  letter-spacing: 0.1em;
 }
 @media (max-width: 991px) {
   .home-carousel h1 {
-    font-size: 36px;
+    font-size: 26px;
   }
 }
 .home-carousel h2 {
   font-weight: 700;
   text-transform: uppercase;
-  font-size: 40px;
+  font-size: 30px;
   letter-spacing: 0.08em;
 }
 .home-carousel ul,
@@ -1211,7 +1211,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 18px;
   font-weight: 700;
   padding: 0;
-  text-transform: uppercase;
+  text-transform: text-uppercase;
   letter-spacing: 0.10em;
 }
 @media (max-width: 991px) {
@@ -1229,7 +1229,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .customers .item {
   list-style-type: none;
-  text-align: center;
+  text-align: justify;
   margin: 0 20px;
 }
 .customers .item img {
@@ -1442,8 +1442,8 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .box-simple h3 {
   font-weight: normal;
-  font-size: 18px;
-  text-transform: uppercase;
+  font-size: 20px;
+  text-transform: text-uppercase;
   line-height: 1.5;
   color: #555555;
   font-weight: 800;
@@ -1632,10 +1632,10 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .box-image-text .content h3,
 .box-image-text .content h4 {
-  text-transform: uppercase;
-  line-height: 1.5;
+  text-transform: text-uppercase;
+  line-height: 1.2;
   color: #555555;
-  font-weight: 800;
+  font-weight: 700;
   letter-spacing: 0.08em;
 }
 .box-image-text .content p {
@@ -3152,9 +3152,9 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 /* scaffolding */
 body {
   font-family: "Roboto", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.42857143;
-  color: #555555;
+  color: 	#00008B;
 }
 a {
   color: #467fbf;
