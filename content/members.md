@@ -144,4 +144,16 @@ Miaomiao is currently focousing on cancer subtyping classification and prognosis
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
+### Yi Cao
+
+<img src="/img/testimonials/caoyi1.jpg" width=250  alt="brain" align=center />
+
+<br>
+
+Yi is currently working on database creating and drug screening by analyzing brain activity maps of zebrafish model.
+
+**PhD Student. M.E in Pattern Recognition**
+
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 <br><br><br>
