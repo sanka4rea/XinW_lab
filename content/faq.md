@@ -50,9 +50,9 @@ A website contains **bioinformatic** related tutorials, databases, tools and jou
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
-### [**Rstudio server:**](http://144.214.26.67:8787/auth-sign-in)
+### [**Rstudio server:**](http://144.214.26.35:8887/auth-sign-in)
 
-<p align="center">Click [**here**](http://144.214.26.36:8887/auth-sign-in) to access the **Rstudio server** in the Wang Lab. 
+<p align="center">Click [**here**](http://144.214.26.35:8887/auth-sign-in) to access the **Rstudio server** in the Wang Lab. 
 
 Please contact **xin.wang@cityu.edu.hk** if you need an account.
 
