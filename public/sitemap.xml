@@ -172,13 +172,13 @@
   </url>
   
   <url>
-    <loc>/tags/all/</loc>
+    <loc>/categories/all/</loc>
     <lastmod>2112-08-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/all/</loc>
+    <loc>/tags/all/</loc>
     <lastmod>2112-08-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>

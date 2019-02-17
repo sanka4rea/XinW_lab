@@ -4,7 +4,8 @@ description = "Huanghao"
 keywords = ["resources","tutorials","rstudio","PAGnet"]
 +++
 
-<iframe src="http://144.214.26.35:8238/PAGnet/" width="1200px" height="2700px" frameborder="0" scrolling="no"> </iframe>
+<iframe src="http://144.214.26.35:8238/PAGnet/" align="center" width="1200" height="1400" style="border: none;">
+</iframe>
 
 
 <br>
