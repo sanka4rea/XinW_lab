@@ -4,11 +4,7 @@ description = "Huanghao"
 keywords = ["resources","tutorials","rstudio","PAGnet"]
 +++
 
-<div align=left>
-
-<object data="http://144.214.26.35:8238/PAGnet/" width="1200" height="1400" type="text/html">
-    Alternative Content
-</object>
+<iframe src="https://en.wikipedia.org/wiki/Hypergeometric_distribution" width="1200px" height="2700px" frameborder="0" scrolling="no"> </iframe>
 
 
 <br>
