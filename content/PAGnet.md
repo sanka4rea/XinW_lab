@@ -7,14 +7,13 @@ keywords = ["resources","tutorials","rstudio","PAGnet"]
 <div align=left>
 
 <div class="main-container" id="main" style="width:99%">
- <iframe src="https://www.cracking.com.ar/redir/redir.php?URL=http://144.214.26.35:8238/PAGnet/" width=1300 height=1400 frameborder="0">
+ <iframe src="https://www.cracking.com.ar/redir/redir.php?URL=http://www.bing.com" width=1300 height=1400 frameborder="0">
  
  </iframe>
  
  
 </div>
 
-<script>document.write()</script>
 
 <br>
 
