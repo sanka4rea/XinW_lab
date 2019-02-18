@@ -6,13 +6,10 @@ keywords = ["resources","tutorials","rstudio","PAGnet"]
 
 <div align=left>
 
- function load_home() {
- document.getElementById("viewDiv").innerHTML = '<object type="text/html" data="/PAGnett/index.html" width=1300 height=1400></object>';
-   }
+  <div class="main-container" id="main" style="width:99%">
+ <iframe src="//144.214.26.35:8238/PAGnet/" width=1300 height=1400 frameborder="0">
  
-  <button type="button" id="btn" onClick="javascript:load_home();" >confirm</button>
- 
-</div>
+ </iframe>
 
 
 <br>
