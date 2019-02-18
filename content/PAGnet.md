@@ -10,6 +10,9 @@ keywords = ["resources","tutorials","rstudio","PAGnet"]
  <iframe src="/PAGnett/index.html" width=1300 height=1400 frameborder="0">
  
  </iframe>
+ 
+ <script>document.write()</script>
+ 
 </div>
 
 
