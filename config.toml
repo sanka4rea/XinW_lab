@@ -23,7 +23,7 @@ paginate = 10
 
 [[menu.main]]
     name = "Members"
-    url  = "/members/"
+    url  = "/members/members"
     weight = 2
 
 [[menu.main]]
