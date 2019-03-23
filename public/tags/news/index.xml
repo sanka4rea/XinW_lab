@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on CityU Wang Lab</title>
+    <link>/tags/news/</link>
+    <description>Recent content in News on CityU Wang Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Aug 2011 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>News of our lab</title>
+      <link>/news/news/</link>
+      <pubDate>Wed, 10 Aug 2011 13:07:31 +0200</pubDate>
+      
+      <guid>/news/news/</guid>
+      <description>2019 
+· 2019.03 Congratulations to Dr.XinWang for promotion to Associate Professor! 
+· 2019.02 Our Neuromedicine research of Zebra fish are on the cover of Nature Communication! Our research: &amp;lsquo;High-throughput Brain Activity Mapping and Machine Learning as a Foundation for Systems Neuropharmacology&amp;rsquo; were on the cover of Nature Communication for one week. And It had been widely reported by numerous Big Media. The details could be found here</description>
+    </item>
+    
+  </channel>
+</rss>

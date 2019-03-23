@@ -56,5 +56,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>News</title>
+      <link>/tags/news/</link>
+      <pubDate>Wed, 10 Aug 2011 13:07:31 +0200</pubDate>
+      
+      <guid>/tags/news/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
