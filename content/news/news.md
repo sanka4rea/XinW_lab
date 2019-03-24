@@ -10,12 +10,9 @@ banner = "img/banners/2016.jpg"
 
 <br>
 
-#### · 2019.03 Congratulations to Dr.XinWang for promotion to Associate Professor! 
-<br>
+#### · 2019.03 Congratulations to Duan Xin for his paper recently published and highlighted in <em>Nature Communications</em>!
 
-#### · 2019.02 Our Neuromedicine research of Zebra fish are on the cover of <em>Nature Communication</em>!
-
-<li><strong>Our research: 'High-throughput Brain Activity Mapping and Machine Learning as a Foundation for Systems Neuropharmacology' were on the cover of <strong><em>Nature Communication</em></strong> for one week. And It had been widely reported by numerous Big Media. The details could be found [here](https://newscentre.cityu.edu.hk/media/news/2019/03/18/neuromedicine-breakthrough-harvard-university)</strong></li> 
+<li><strong>[Paper](https://www.nature.com/articles/s41467-018-07289-5).  [News](https://newscentre.cityu.edu.hk/media/news/2019/03/18/neuromedicine-breakthrough-harvard-university) </strong></li> 
 
 <img src="/img/news/zebrafish.jpg" width= "800" alt="server" align="center">
 <br>
