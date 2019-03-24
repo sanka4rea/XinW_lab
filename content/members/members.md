@@ -6,7 +6,7 @@ categories = ["members"]
 banner = "img/banners/2016.jpg"
 +++
 
-### Prof.Xin Wang 
+### Dr.Xin Wang 
 <p align="center"><img src="/img/testimonials/xw.jpg" alt="brain" />
 <br>
 ##### <p align="center">**Assistant Professor, Biomedical Sciences, City University HK**
