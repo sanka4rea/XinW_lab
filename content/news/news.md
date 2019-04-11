@@ -10,6 +10,12 @@ banner = "img/banners/2016.jpg"
 
 <br>
 
+#### · 2019.03 Dr. Wang and Prof. Michael Yang were invited to visit Peking University Shenzhen Hospital by Prof. Shubin Wang!
+
+<img src="/img/carousel/peking_sz_hos2.jpg" width= "800" alt="server" align="center">
+<br>
+<br>
+
 #### · 2019.03 Congratulations to Duan Xin for his paper recently published and highlighted in <em>Nature Communications</em>!
 
 <li><strong>[Paper](https://www.nature.com/articles/s41467-018-07289-5).  [News](https://newscentre.cityu.edu.hk/media/news/2019/03/18/neuromedicine-breakthrough-harvard-university) </strong></li> 
