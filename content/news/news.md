@@ -7,7 +7,12 @@ banner = "img/banners/2016.jpg"
 +++
 
 ### 2019 
+<br>
 
+#### · 2019.05 Dr. Wang and Prof. Michael Yang were invited to visit the sixth affiliated hospital of Sun Yat-sen University by vice-president of the hospital Wu Xiaojian!
+
+<img src="/img/carousel/six-0517.jpg" width= "800" alt="server" align="center">
+<br>
 <br>
 
 #### · 2019.03 Dr. Wang and Prof. Michael Yang were invited to visit Peking University Shenzhen Hospital by Prof. Shubin Wang!
