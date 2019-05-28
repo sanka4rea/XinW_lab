@@ -44,7 +44,7 @@ banner = "img/banners/2016.jpg"
 ##### <p align="center">Ying is currently working on cancer subtyping by linking intra-tumor and inter-tumor heterogeneity.<br>**PhD Student. M.S in Bioinformatics**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 #### Lin Qi
-##### <p align="center"><img src="/img/testimonials/qilin.png" width=250  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/qilin.jpg" width=250  alt="brain" align=center />
 ##### <p align="center">Lin is working on digital pathology by integrative analysis of clinicopathological, molecular<br>and cancer imaging data.<br>**PhD Student. M.E in Pattern Recognition**
 <br>
 #### Miaomiao Tan
@@ -54,6 +54,10 @@ banner = "img/banners/2016.jpg"
 #### Yi Cao
 ##### <p align="center"><img src="/img/testimonials/caoyi1.jpg" width=250  alt="brain" align=center />
 ##### <p align="center">Yi is currently working on database creating and drug screening by analyzing brain activity maps of zebrafish model.<br>**PhD Student. M.E in Pattern Recognition**
+<br>
+#### Zhongxu Zhu
+##### <p align="center"><img src="/img/testimonials/zhongxu.png" width=250  alt="brain" align=center />
+##### <p align="center">Zhongxu is working on cancer genomics analysis, biomarker development and neoantigen prediction.<br>**PhD Student. M.S in Bioinformatics**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 <br><br><br>
