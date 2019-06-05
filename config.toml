@@ -62,7 +62,7 @@ paginate = 10
   
 [[menu.main]]
     name = "PAGnet"
-    url  = "/PAGnet/"
+    url  = "/PAGnett/"
     weight = 4
     parent = "Resources1"
     
