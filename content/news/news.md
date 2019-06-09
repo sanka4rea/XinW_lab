@@ -21,6 +21,14 @@ banner = "img/banners/2016.jpg"
 <br>
 <br>
 
+#### · 2019.03 Congratulations to Gao Feng for his paper recently published in Gastroenterology!
+
+<li><strong>[Paper](https://www.gastrojournal.org/article/S0016-5085(19)30436-6/abstract).  [News](http://www.cityu.edu.hk/vprt/news/2019/a-biomarker-for-categorizing-colorectal-cancer-patients/) </strong></li> 
+
+<img src="/img/carousel/biomaker.jpg" width= "800" alt="server" align="center">
+<br>
+<br>
+
 #### · 2019.03 Congratulations to Duan Xin for his paper recently published and highlighted in <em>Nature Communications</em>!
 
 <li><strong>[Paper](https://www.nature.com/articles/s41467-018-07289-5).  [News](https://newscentre.cityu.edu.hk/media/news/2019/03/18/neuromedicine-breakthrough-harvard-university) </strong></li> 
