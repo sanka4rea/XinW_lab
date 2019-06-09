@@ -335,7 +335,8 @@ PhD Students Feng Gao  Feng is mainly focusing on applying artificial intelligen
       
       <guid>/news/news/</guid>
       <description>2019 
-· 2019.05 Dr. Wang and Prof. Michael Yang were invited to visit the Sixth Affiliated Hospital of Sun Yat-sen University by vice president of the hospital Wu Xiaojian! · 2019.03 Dr. Wang and Prof. Michael Yang were invited to visit Peking University Shenzhen Hospital by Prof. Shubin Wang! · 2019.03 Congratulations to Duan Xin for his paper recently published and highlighted in Nature Communications! Paper. News</description>
+· 2019.05 Dr. Wang and Prof. Michael Yang were invited to visit the Sixth Affiliated Hospital of Sun Yat-sen University by vice president of the hospital Wu Xiaojian! · 2019.03 Dr. Wang and Prof. Michael Yang were invited to visit Peking University Shenzhen Hospital by Prof. Shubin Wang! · 2019.03 Congratulations to Gao Feng for his paper recently published in Gastroenterology! Paper. News 
+· 2019.03 Congratulations to Duan Xin for his paper recently published and highlighted in Nature Communications!</description>
     </item>
     
     <item>
@@ -349,15 +350,6 @@ PhD Students Feng Gao  Feng is mainly focusing on applying artificial intelligen
 Kandimalla R&amp;dagger;, Gao F&amp;dagger;, Li Y&amp;dagger;, Huang H, Ke J, Deng X, Zhao L, Zhou S, Goel A* and Wang X*,RNAMethyPro: a biologically conserved signature of N6-methyladenosine regulators for predicting survival at pan-cancer level. npj Precision Oncology. 2019;3: 13.
 
 Kandimalla R&amp;dagger;, Ozawa T&amp;dagger;,Gao F&amp;dagger;,Wang X*, Goel A* and the T1 Colorectal Cancer Study Group, Gene Expression Signature in Surgical Tissues and Endoscopic Biopsies Identifies High-risk T1 Colorectal Cancers,Gastroenterology 2019, DOI: https://doi.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/pagnett/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pagnett/</guid>
-      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
     <item>
@@ -397,12 +389,11 @@ PhD Studentships PhD Program in BMS Prospective students should note the deadlin
       
       <guid>/faq/</guid>
       <description>Softwares &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
+PAGnet A online resource which construct a genomic integrated regulatory network based on chromatin immunoprecipitation coupled with high-throughput sequencing (ChIP-seq) and transcriptome profiling (RNA-seq). https://compbio-cityuhk.shinyapps.io/pagnet/ 
 DeepCC A deep learning-based framework for cancer classification. https://cityuhk-compbio.github.io/DeepCC/ 
 HTSanalyzeR2 A R pacakge for downstream analysis of high-throughput CRISPR/RNAi screens with interactive shiny report. https://github.com/CityUHK-CompBio/HTSanalyzeR2 Tutorial website: https://htsanalyzer2.netlify.com/ 
 Website &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
-Cityu-Bioinformatics A website contains bioinformatic related tutorials, databases, tools and journals: https://cityu-bioinformatics.netlify.com/ 
-Servers &amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;
-Rstudio server: Click here to access the Rstudio server in the Wang Lab. Please contact xin.wang@cityu.edu.hk if you need an account.</description>
+Cityu-Bioinformatics A website contains bioinformatic related tutorials, databases, tools and journals: https://cityu-bioinformatics.</description>
     </item>
     
   </channel>
