@@ -9,6 +9,12 @@ banner = "img/banners/2016.jpg"
 ### 2019 
 <br>
 
+#### · 2019.07 Congratulations to Huang Hao for his paper recently published in <em>Nature Communications</em>!
+
+<li><strong>[Paper](https://www.nature.com/articles/s41467-019-10778-w).  [News](https://mp.weixin.qq.com/s/B8UTzOlKA3u9OqVOhWWaFA) </strong></li> 
+<br>
+<br>
+
 #### · 2019.05 Dr. Wang and Prof. Michael Yang were invited to visit the Sixth Affiliated Hospital of Sun Yat-sen University by vice president of the hospital Wu Xiaojian!
 
 <img src="/img/carousel/six-0517.jpg" width= "800" alt="server" align="center">
@@ -58,7 +64,7 @@ banner = "img/banners/2016.jpg"
 ### 2017 
 <br>
 #### · 2017.12 We invited Dr. KeYuan from University of Glasgow  to give a seminar about 'Uncovering intratumor heterogeneity with Dirichlet processes'.
-<img src="/img/carousel/yk2.png" width= "800" alt="server" align="center">
+<img src="/img/carousel/yk2.jpg" width= "800" alt="server" align="center">
 <br>
 <br>
 ##### · 2017.09 New members: Hao and Ying joined our group as new PhD students in September! Lin joined our group as a RA in October.

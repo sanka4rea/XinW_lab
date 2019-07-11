@@ -32,7 +32,7 @@ keywords = ["resources","tutorials","rstudio","galaxy"]
 #### A website contains <u>**bioinformatic**</u> related tutorials, databases, tools and journals:
 #### <u>***https://cityu-bioinformatics.netlify.com/***</u>
 <br>
-<img src="/img/server/bioinf.png" width= "700" alt="server" align="center">
+<img src="/img/server/bioinf.jpg" width= "700" alt="server" align="center">
 <br><br>
 ## Servers
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
@@ -49,7 +49,7 @@ keywords = ["resources","tutorials","rstudio","galaxy"]
 ### [**UCSC Genome Browser:**](http://144.214.26.35:8038/index.html)
 #### <p align="center">Click [<u>**here**</u>](http://144.214.26.35:8038/index.html) to access the <u>**UCSC Genome Browser**</u> in the Wang Lab. 
 <br>
-<img src="/img/server/ucsc.png" alt="galaxy" width= "700" align="center">
+<img src="/img/server/ucsc.jpg" alt="galaxy" width= "700" align="center">
 <br>
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**

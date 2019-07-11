@@ -20,11 +20,11 @@ banner = "img/banners/2016.jpg"
 ##### <p align="center">Feng is mainly focusing on applying artificial intelligence techniques such as deep learning to cancer research,<br>including but not limited to patient stratification, biomarker and target discovery.<br>**Linkedin**: https://hk.linkedin.com/in/feng-gao-3b7bb33a <br>**Joint PhD Student with Cornell University**
 <br>
 #### Wei Wang
-##### <p align="center"><img src="/img/testimonials/ww.png" width=250  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/wei.jpg" width=250  alt="brain" align=center />
 ##### <p align="center">Wei is currently working on cancer prognosis prediction,<br>such as building a new model to predict relapse and identifying predictive biomarkers.<br>**PhD Student. M.S in Microbiology**
 <br>
 #### Xin Duan
-##### <p align="center"><img src="/img/testimonials/dx1.png" width=250  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/dx.jpg" width=250  alt="brain" align=center />
 ##### <p align="center">Xin DUAN has expertise in image processing and is currently working on<br>drug screening by analyzing brain activity maps of zebrafish model.<br>**Research Asistant. M.E in Pattern Recognition**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 #### Yuchen Zhang
