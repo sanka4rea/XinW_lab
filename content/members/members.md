@@ -9,7 +9,7 @@ banner = "img/banners/2016.jpg"
 ### Dr.Xin Wang 
 <p align="center"><img src="/img/testimonials/xw.jpg" alt="brain" />
 <br>
-##### <p align="center">**Assistant Professor, Biomedical Sciences, City University HK**
+##### <p align="center">**Associate Professor, Biomedical Sciences, City University HK**
 ##### <p align="center">**Postdoctoral Fellow**, Harvard Medical School, Supervisor: [Dr. Peter Kharchenko](http://pklab.med.harvard.edu/) 
 ##### <p align="center">**PhD**, Department of Oncology and Cancer Research UK Cambridge Institute, University of Cambridge, <br>Supervisor: [Dr. Florian Markowetz](http://www.markowetzlab.org/). <br><br>**Office**: 1B-102, 1/F, Block 1, To Yuen Building <br>**Phone**: +852 3442-2367 <br>**Fax**: +852 3442-0549 <br>**Email**: xin.wang@cityu.edu.hk
 ##### <p align="center">[**Department webpage**](http://www.cityu.edu.hk/bms/profile/xinwang.htm)
