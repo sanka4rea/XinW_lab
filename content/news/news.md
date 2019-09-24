@@ -21,14 +21,14 @@ banner = "img/banners/2016.jpg"
 <br>
 
 
-#### · 2019.08 Cao Yi, Qi Lin and Zhang Yuchen Zhu attended '3rd Croucher Summer Course in Advanced Imaging 2019' in HongKong University!
+##### · 2019.08 Cao Yi, Qi Lin and Zhang Yuchen Zhu attended '3rd Croucher Summer Course in Advanced Imaging 2019' in HongKong University!
 
 <br>
 <br>
 
 #### · 2019.07 Zhu Zhongxu  attended 'statistical methods course on clinical medicine 2019' in BeiJing!
 
-<img src="/img/carousel/six-0517.jpg" width= "800" alt="server" align="center">
+<img src="/img/carousel/clinical.jpg" width= "800" alt="server" align="center">
 <br>
 <br>
 
