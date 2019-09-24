@@ -53,12 +53,17 @@ banner = "img/banners/2016.jpg"
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 #### Yi Cao
 ##### <p align="center"><img src="/img/testimonials/caoyi1.jpg" width=250  alt="brain" align=center />
-##### <p align="center">Yi is currently working on database creating and drug screening by analyzing brain activity maps of zebrafish model.<br>**PhD Student. M.E in Pattern Recognition**
+##### <p align="center">Yi is currently working on database creating and drug screening by analyzing brain activity maps of zebrafish model.<br>**PhD Student. M.S in Pattern Recognition**
 <br>
 #### Zhongxu Zhu
 ##### <p align="center"><img src="/img/testimonials/zhongxu.png" width=250  alt="brain" align=center />
 ##### <p align="center">Zhongxu is working on cancer genomics analysis, biomarker development and neoantigen prediction.<br>**PhD Student. M.S in Bioinformatics**
+<br>
+#### (Rayna) Yu CHEN
+##### <p align="center"><img src="/img/testimonials/rayna.jpg" width=250  alt="brain" align=center />
+##### <p align="center">Rayna is working on biomarker and nanopore sequencing.<br>**PhD Student. M.S in Biotherapy**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+
 
 <br><br><br>
 
