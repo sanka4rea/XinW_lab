@@ -36,7 +36,7 @@ banner = "img/banners/2016.jpg"
 ##### <p align="center">Lina is working on HTSanalyzeR2 and biomarker development.<br>**Joint PhD Student with Cornell University.**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 #### Hao Huang
-##### <p align="center"><img src="/img/testimonials/huanghao_v2.jpg" width=250  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/huanghao_v2.jpg" width=350  alt="brain" align=center />
 ##### <p align="center">Hao's research is focused on integrative analysis of ChIP-seq and RNA-seq data to dissect<br>epigenetic regulations in cancer.<br>**Joint PhD Student with Cornell University. M.S in Biophysics**
 <br>
 #### Ying Li
@@ -72,12 +72,12 @@ banner = "img/banners/2016.jpg"
 ##### <p align="center">Lingli is currently working on cancer subtypes identification using single-cell transcriptomes and cancer-related RNA sequencing analysis.<br>**PhD Student. M.S in Statistics**
 <br>
 #### Yuni Lai
-##### <p align="center"><img src="/img/testimonials/Yuni.jpg" width=250  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/Yuni.jpg" width=300  alt="brain" align=center />
 ##### <p align="center">Yuni is interested in working on medical image analysis to help with cancer diagnosis via deep learning and statistics.<br>**Joint PhD Student with Cornell University.**
 <br>
 #### Tan Wu
 ##### <p align="center"><img src="/img/testimonials/tan.jpg" width=250  alt="brain" align=center />
-##### <p align="center">Tan is focusing on genomic analysis in human diseases.<br>**PhD Student. M.S in Bioinformatics**
+##### <p align="center">Tan is focusing on genomic analysis in human diseases.<br>**Joint PhD Student with Cornell University**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 <br><br><br>
