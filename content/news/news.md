@@ -9,13 +9,13 @@ banner = "img/banners/2016.jpg"
 ### 2019 
 <br>
 
-#### · 2019.09 Dr. Wang attended 'The 3rd international symposium on the frontiers of stress medicine' in SiChuan!
+#### · 2019.09 Dr. Wang was invited to give a talk in 'The 3rd international symposium on the frontiers of stress medicine' in Chengdu, Sichuan, China.
 
 <img src="/img/carousel/stress_medicine.jpg" width= "800" alt="server" align="center">
 <br>
 <br>
 
-##### · 2019.09 New members: Han Guiyuan, He Linli, Lai Yuni and Wu Tan joined our group as new PhD students in September!
+#### · 2019.09 New members: Rayna joined our group as a joint PhD student in June! Han Guiyuan, He Linli, Lai Yuni and Wu Tan joined our group as new PhD students in September!
 
 <br>
 <br>
@@ -23,10 +23,11 @@ banner = "img/banners/2016.jpg"
 
 ##### · 2019.08 Cao Yi, Qi Lin and Zhang Yuchen Zhu attended '3rd Croucher Summer Course in Advanced Imaging 2019' in HongKong University!
 
+<img src="/img/carousel/hkuimage.jpg" width= "800" alt="server" align="center">
 <br>
 <br>
 
-#### · 2019.07 Zhu Zhongxu  attended 'statistical methods course on clinical medicine 2019' in BeiJing!
+##### · 2019.07 Zhu Zhongxu  attended 'statistical methods course on clinical medicine 2019' in BeiJing!
 
 <img src="/img/carousel/clinical.jpg" width= "800" alt="server" align="center">
 <br>
@@ -66,7 +67,7 @@ banner = "img/banners/2016.jpg"
 <br>
 <br>
 ##### · 2019.01 Yi Cao attended IAPR/IEEE Winter School on Biometrics 2019 in ShenZhen.
-<img src="/img/carousel/cywinter.jpg" width= "800" alt="server" align="center">
+<img src="/img/carousel/cywinter.jpg" width= "700" alt="server" align="center">
 <br>
 
 ### 2018 
@@ -78,7 +79,7 @@ banner = "img/banners/2016.jpg"
 ##### · 2018.09 New members: Lin and Miaomiao joined our group as new PhD students in September! Yi joined our group as a new PhD student in November!
 <br>
 ##### · 2018.07 Lin gave a presentation in the Biological information and biomedical engineering conference.
-<img src="/img/carousel/bibe2.jpg" width= "800" alt="server" align="center">
+<img src="/img/carousel/bibe2.jpg" width= "700" alt="server" align="center">
 <br>
 ##### · 2018.06 Feng gave a presentation in the 3rd BMS Research Gala cum GD-HK-Macau Greater Bay Area Biomedical Forum.
 <img src="/img/carousel/gala2.jpg" width= "800" alt="server" align="center">
