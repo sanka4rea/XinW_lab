@@ -66,6 +66,12 @@ paginate = 10
     weight = 4
     parent = "Resources1"
     
+[[menu.main]]
+    name = "PSVnet"
+    url  = "/PSVnet/"
+    weight = 5
+    parent = "Resources1"
+
 
 [[menu.main]]
     name = "Contact"
