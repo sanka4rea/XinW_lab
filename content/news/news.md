@@ -6,6 +6,17 @@ categories = ["News"]
 banner = "img/banners/2016.jpg"
 +++
 
+### 2020 
+<br>
+
+#### · 2020.01 Congratulations for our group research has been published on 'Asia Reaseach News' magazine!
+##### Congratulations for our group research "Gene Expression Pattern Pinpoints High-risk Colorectal Cancer" has been published on 'Asia Reaseach News' magazine!
+
+[magazine](https://www.asiaresearchnews.com/magazine/2020-0) </strong></li> 
+<img src="/img/carousel/mag2.jpg" width= "800" alt="server" align="center">
+<br>
+<br>
+
 ### 2019 
 <br>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oncogene on CityU Wang Lab</title>
@@ -17,21 +17,9 @@
       <pubDate>Mon, 26 Nov 2018 13:07:31 +0200</pubDate>
       
       <guid>/blog/1805onco_ww/</guid>
-      <description>Authors Zhao L&amp;dagger;, Wang W&amp;dagger;, Xu L, Yi T, Zhao X, Wei Y, Vermeulen L, Goel A, Zhou S* and Wang X*
-Oncogene 2018, doi:https://doi.org/10.1038/s41388-018-0577-5
-Abstract Ovarian cancer is a heterogeneous malignancy that poses tremendous clinical challenge. Based on unsupervised classification of whole-genome gene expression profiles, four molecular subtypes of ovarian cancer were recently identified. However, single-driver molecular events specific to these subtypes have not been clearly elucidated.
-We aim to characterize the regulatory mechanisms underlying the poor prognosis mesenchymal subtype of ovarian cancer using a systems biology approach, involving a variety of molecular modalities including gene and microRNA expression profiles.</description>
-    </item>
-    
-    <item>
-      <title>A multidimensional network approach reveals microRNAs as determinants of the mesenchymal colorectal cancer subtype.</title>
-      <link>/publications/1604onco_wx/</link>
-      <pubDate>Thu, 17 Nov 2016 13:07:31 +0200</pubDate>
-      
-      <guid>/publications/1604onco_wx/</guid>
-      <description>Author Fessler E, Jansen M, De Sousa E Melo F, Zhao L, Prasetyanti PR, Rodermond H, Kandimalla R, Linnekamp JF, Franitza M, van Hooff SR, de Jong JH, Oppeneer SC, van Noesel CJM, Dekker E, Stassi G, Wang X*, Medema JP*, and Vermeulen L*.
-Oncogene 2016, doi:10.1038/onc.2016.134
-Abstract Colorectal cancer (CRC) is a heterogeneous disease posing a challenge for accurate classification and treatment of this malignancy. There is no common genetic molecular feature that would allow for the identification of patients at risk for developing recurrences and thus selecting patients who would benefit from more stringent therapies still poses a major clinical challenge.</description>
+      <description>Authors Oncogene 2018, doi:https://doi.org/10.1038/s41388-018-0577-5
+Abstract Keywords Ovarian Cancer, Network, miR-508-3p, Biomarker, Mesenchymal
+Full text could be found in here </description>
     </item>
     
     <item>
@@ -42,7 +30,18 @@ Abstract Colorectal cancer (CRC) is a heterogeneous disease posing a challenge f
       <guid>/blog/1604onco_wx/</guid>
       <description>Authors Fessler E, Jansen M, De Sousa E Melo F, Zhao L, Prasetyanti PR, Rodermond H, Kandimalla R, Linnekamp JF, Franitza M, van Hooff SR, de Jong JH, Oppeneer SC, van Noesel CJM, Dekker E, Stassi G, Wang X*, Medema JP*, and Vermeulen L*.
 Oncogene 2016, doi:10.1038/onc.2016.134
-Abstract Colorectal cancer (CRC) is a heterogeneous disease posing a challenge for accurate classification and treatment of this malignancy. There is no common genetic molecular feature that would allow for the identification of patients at risk for developing recurrences and thus selecting patients who would benefit from more stringent therapies still poses a major clinical challenge.</description>
+Abstract Full text could be found in here </description>
+    </item>
+    
+    <item>
+      <title>A multidimensional network approach reveals microRNAs as determinants of the mesenchymal colorectal cancer subtype.</title>
+      <link>/publications/1604onco_wx/</link>
+      <pubDate>Thu, 17 Nov 2016 13:07:31 +0200</pubDate>
+      
+      <guid>/publications/1604onco_wx/</guid>
+      <description>Author Fessler E, Jansen M, De Sousa E Melo F, Zhao L, Prasetyanti PR, Rodermond H, Kandimalla R, Linnekamp JF, Franitza M, van Hooff SR, de Jong JH, Oppeneer SC, van Noesel CJM, Dekker E, Stassi G, Wang X*, Medema JP*, and Vermeulen L*.
+Oncogene 2016, doi:10.1038/onc.2016.134
+Abstract Full txt could be found in here </description>
     </item>
     
   </channel>
