@@ -9,6 +9,13 @@ banner = "img/banners/2016.jpg"
 ## 2020 
 <br>
 
+#### · 2020.05.22 Dr. Wang was invited to give a seminar at Chinese University of Hong Kong!
+#### Dr. Wang was invited to give a seminar at the Department of Surgery, Chinese University of Hong Kong. He was appointed as an Adjunct Associate Professor at the department.
+
+<img src="/img/news/cuhk.jpg" width= "800" alt="server" align="center">
+<br>
+<br>
+
 #### · 2020.01 Congratulations for our research was reported in the 'Asia Reaseach News' magazine!
 #### Our publication "Gene Expression Signature in Surgical Tissues and Endoscopic Biopsies Identifies High-risk T1 Colorectal Cancers" in Gastroenterology was reported in the recent 'Asia Reaseach News' magazine! 
 
