@@ -22,7 +22,7 @@ keywords = ["Galary","Photo","Lab","Gathering"]
 #### We got the photo with the president of CityU hhh!
 
 <br>
-<img src="/img/galary/2019.jpg" width= "900" alt="server" align="center">
+<img src="/img/galary/2019.jpg" width= "800" alt="server" align="center">
 <br><br>
 
 ### **Focus Learning Series**
@@ -30,21 +30,21 @@ keywords = ["Galary","Photo","Lab","Gathering"]
 #### Medical imaging, Single cell sequencing, Biomarkers. (2019: Oct, Nov, Dec)
 
 <br>
-<img src="/img/galary/Focus.jpg" width= "700" alt="server" align="center">
+<img src="/img/galary/Focus.jpg" width= "800" alt="server" align="center">
 <br><br>
 
 ### **Precision Medicine conference in GuangZhou**
 #### We attended the Precision Medicine conference hold by the Sixth Affiliated Hospital of Sun Yat-sen University.
 
 <br>
-<img src="/img/galary/gzMeet.jpg" width= "700" alt="server" align="center">
+<img src="/img/galary/gzMeet.jpg" width= "800" alt="server" align="center">
 <br><br>
 
 ### **Graduation!**
 #### congratulations for FengGao!  
 
 <br>
-<img src="/img/galary/graduation.jpg" width= "1000" alt="server" align="center">
+<img src="/img/galary/graduation.jpg" width= "800" alt="server" align="center">
 <br><br>
 
 ## 2017 ~ 2018
@@ -68,7 +68,7 @@ keywords = ["Galary","Photo","Lab","Gathering"]
 #### 2017.12. We gone to the Chicken Hot Spot in Whampoa region and had tried different kinds of beers.  
 
 <br>
-<img src="/img/galary/chicken2018.jpg" width= "700" alt="server" align="center">
+<img src="/img/galary/chicken2018.jpg" width= "800" alt="server" align="center">
 <br><br>
 
 ### **Trip for island and memory of Lab**
