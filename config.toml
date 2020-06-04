@@ -25,6 +25,20 @@ paginate = 10
     name = "Members"
     url  = "/members/members"
     weight = 2
+    identifier = "Members"
+    
+[[menu.main]]
+    name = "Current"
+    url  = "/members/members"
+    weight = 1
+    parent = "Members"
+    
+[[menu.main]]
+    name = "Alumni"
+    url  = "/members/alumni"
+    weight = 2
+    parent = "Members"
+    
 
 [[menu.main]]
     name = "Publications"
