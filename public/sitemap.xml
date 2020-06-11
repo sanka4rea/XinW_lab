@@ -263,11 +263,6 @@
   </url>
   
   <url>
-    <loc>/galary/</loc>
-    <lastmod>2011-08-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/members/</loc>
     <lastmod>2011-08-10T13:07:31+02:00</lastmod>
   </url>
@@ -279,11 +274,6 @@
   
   <url>
     <loc>/tags/members/</loc>
-    <lastmod>2011-08-10T13:07:31+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/galary/galary/</loc>
     <lastmod>2011-08-10T13:07:31+02:00</lastmod>
   </url>
   
@@ -328,6 +318,14 @@
   
   <url>
     <loc>/eigenfish/</loc>
+  </url>
+  
+  <url>
+    <loc>/galary/</loc>
+  </url>
+  
+  <url>
+    <loc>/galary/galary/</loc>
   </url>
   
   <url>
