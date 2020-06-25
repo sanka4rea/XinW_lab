@@ -15,7 +15,7 @@ banner = "img/banners/2016.jpg"
 
 #### Xin Duan
 ##### <p align="center"><img src="/img/testimonials/dx.jpg" width=250  alt="brain" align=center />
-##### <p align="center" p style = "margin:20px" p style="line-height:200%">Xin DUAN had expertise in image processing and was worked on<br>drug screening by analyzing brain activity maps of zebrafish model.<br>**Research Asistant. M.E in Pattern Recognition**
+##### <p align="center" p style = "margin:20px" p style="line-height:200%">Xin DUAN had expertise in image processing and worked on<br>drug screening by analyzing brain activity maps of zebrafish model.<br>**Research Asistant. M.E in Pattern Recognition**
 
 <br><br><br>
 
