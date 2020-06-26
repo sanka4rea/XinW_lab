@@ -16,8 +16,7 @@ banner = "img/banners/2016.jpg"
 <br>
 <br>
 
-#### · 2020.01 Congratulations for our research was reported in the 'Asia Reaseach News' magazine!
-#### Our publication "Gene Expression Signature in Surgical Tissues and Endoscopic Biopsies Identifies High-risk T1 Colorectal Cancers" in Gastroenterology was reported in the recent 'Asia Reaseach News' magazine! 
+#### 2020.01 Our publication "Gene Expression Signature in Surgical Tissues and Endoscopic Biopsies Identifies High-risk T1 Colorectal Cancers" in Gastroenterology was reported in the recent 'Asia Reaseach News' magazine! 
 
 <li><strong>[magazine](https://www.asiaresearchnews.com/magazine/2020-0) </strong></li> 
 <img src="/img/carousel/mag2.jpg" width= "600" height= "1000" alt="server" align="center">
