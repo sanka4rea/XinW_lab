@@ -19,7 +19,7 @@ banner = "img/banners/2016.jpg"
 #### 2020.01 Our publication "Gene Expression Signature in Surgical Tissues and Endoscopic Biopsies Identifies High-risk T1 Colorectal Cancers" in Gastroenterology was reported in the recent 'Asia Reaseach News' magazine! 
 
 <li><strong>[magazine](https://www.asiaresearchnews.com/magazine/2020-0) </strong></li> 
-<img src="/img/carousel/mag2.jpg" width= "600" height= "1000" alt="server" align="center">
+<img src="/img/carousel/mag2.jpg" width= "600" height= "800" alt="server" align="center">
 <br>
 <br>
 
