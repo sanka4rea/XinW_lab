@@ -16,11 +16,6 @@ banner = "img/banners/2016.jpg"
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ### PhD Students
 <br>
-#### Wei Wang
-##### <p align="center"><img src="/img/testimonials/wei.jpg" width=250  alt="brain" align=center />
-##### <p align="center">Wei is currently working on cancer prognosis prediction,<br>such as building a new model to predict relapse and identifying predictive biomarkers.<br>**PhD Student. M.S in Microbiology**
-<br>
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 #### Yuchen Zhang
 ##### <p align="center"><img src="/img/testimonials/yuchen.png" width=250  alt="brain" align=center />
 ##### <p align="center">Yuchen started focusing on bioinformatics during master study. Now he is mainly<br>working on cancer-specific regulatory network inference.<br>**PhD Student. M.E in Pattern Recognition**
