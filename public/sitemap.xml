@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/all/</loc>
+    <loc>/tags/all/</loc>
     <lastmod>2112-08-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/all/</loc>
+    <loc>/categories/all/</loc>
     <lastmod>2112-08-10T13:07:31+02:00</lastmod>
   </url>
   
@@ -268,12 +268,12 @@
   </url>
   
   <url>
-    <loc>/categories/members/</loc>
+    <loc>/tags/members/</loc>
     <lastmod>2011-08-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/members/</loc>
+    <loc>/categories/members/</loc>
     <lastmod>2011-08-10T13:07:31+02:00</lastmod>
   </url>
   
@@ -288,12 +288,12 @@
   </url>
   
   <url>
-    <loc>/categories/news/</loc>
+    <loc>/tags/news/</loc>
     <lastmod>2011-08-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/news/</loc>
+    <loc>/categories/news/</loc>
     <lastmod>2011-08-10T13:07:31+02:00</lastmod>
   </url>
   
@@ -330,6 +330,10 @@
   
   <url>
     <loc>/pagnet/</loc>
+  </url>
+  
+  <url>
+    <loc>/pagnet2/</loc>
   </url>
   
   <url>

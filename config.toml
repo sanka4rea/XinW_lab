@@ -80,10 +80,10 @@ paginate = 10
   parent = "Resources1"
   
 [[menu.main]]
-    name = "PAGnet"
-    url  = "/PAGnet/"
-    weight = 4
-    parent = "Resources1"
+  weight = 4
+  name = "PAGnet"
+  url  = "/PAGnet2/"
+  parent = "Resources1"
 
 [[menu.main]]
     name = "Contact"
