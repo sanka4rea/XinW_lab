@@ -70,7 +70,7 @@ paginate = 10
 [[menu.main]]
   weight = 2
   name   = "DeepCC"
-  url    = "https://cityuhk-compbio.github.io/DeepCC/"
+  url    = "https://cityuhk-compbio.github.io/deepcc_online/"
   parent = "Resources1"  
 
 [[menu.main]]
