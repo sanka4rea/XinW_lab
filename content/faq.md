@@ -17,7 +17,7 @@ keywords = ["resources","tutorials","rstudio","galaxy"]
 
 ### [**DeepCC**](https://cityuhk-compbio.github.io/deepcc_online/)
 
-#### A <u>**deep learning-based framework**</u> for cancer classification. <u>***https://cityuhk-compbio.github.io/DeepCC/***</u>
+#### A <u>**deep learning-based framework**</u> for cancer classification. <u>***https://cityuhk-compbio.github.io/deepcc_online/***</u>
 <br>
 ### [**HTSanalyzeR2**](https://github.com/CityUHK-CompBio/HTSanalyzeR2)
 #### A <u>**R pacakge**</u> for downstream analysis of high-throughput CRISPR/RNAi screens with interactive shiny report.
