@@ -70,19 +70,19 @@ banner = "img/banners/2016.jpg"
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 #### Jiang Li 
 ##### <p align="center"><img src="/img/testimonials/jiang.jpg" width=250  alt="brain" align=center />
-##### <p align="center">Guiyuan is working on cancer biomarker development. <br>**PhD Student. M.S in Epidemiology and Biostatistics**
+##### <p align="center">Jiang's research is mainly focused on cancer genomics and R package development, he worked on drug repurposing and combination prediction in master's career.<br>**PhD student, M.S in Bioinformatics.**
 <br>
 #### Lishi Wang
-##### <p align="center"><img src="/img/testimonials/lishi.jpg" width=250  alt="brain" align=center />
-##### <p align="center">Lingli is currently working on method development for cancer subtyping and single-cell sequencing data analysis.<br>**PhD Student. M.S in Statistics**
+##### <p align="center"><img src="/img/testimonials/lishi.jpg" width=300  alt="brain" align=center />
+##### <p align="center">Lishi started interested in bioinformatics from master study.now his research is mainly about cancer immunotherapy.<br>**Joint PhD student with CUHK.**
 <br>
 #### Geng Wang
-##### <p align="center"><img src="/img/testimonials/geng.jpg" width=300  alt="brain" align=center />
-##### <p align="center">Yuni is working on digital pathology based on Artificial Intelligence.<br>**Joint PhD Student with Cornell University.**
+##### <p align="center"><img src="/img/testimonials/geng.jpg" width=250  alt="brain" align=center />
+##### <p align="center">Xiangeng is working on translational and computational cancer biology via machine learning methods.<br>**PhD Student.**
 <br>
 #### Xianrui Zhang
-##### <p align="center"><img src="/img/testimonials/rui.jpg" width=250  alt="brain" align=center />
-##### <p align="center">Tan is working on cancer genomics and bioinformatics.<br>**Joint PhD Student with Cornell University**
+##### <p align="center"><img src="/img/testimonials/rui.jpg" width=300  alt="brain" align=center />
+##### <p align="center">Xianrui is currently working on drug screening by brain activity map of zebrafish model based on deep learning methods.<br>** PhD student. B.E. in Control Science and Engineering.**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 <br><br><br>
