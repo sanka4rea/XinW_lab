@@ -9,6 +9,10 @@ banner = "img/banners/2016.jpg"
 ## 2020 
 <br>
 
+#### · 2020.09 New members: Li Jiang, Wang Lishi, Wang Xiangeng and Zhang Xianrui joined our group as a new PhD student in September! 
+
+<br>
+<br>
 #### · 2020.06 Congratulations to Lin Qi for his paper recently published in <em>Science Advances</em>! 
 <li><strong>[Paper](https://advances.sciencemag.org/content/6/24/eaba4971).  [News](https://www.cityu.edu.hk/research/stories/2020/06/11/intracellular-biopsy-technique-fast-micrornas-profiling-living-cells).
 [News](https://scienmag.com/intracellular-biopsy-technique-for-fast-micrornas-profiling-in-living-cells/). [新闻](https://www.cityu.edu.hk/zh-hk/research/stories/2020/06/11/intracellular-biopsy-technique-fast-micrornas-profiling-living-cells). </strong></li>

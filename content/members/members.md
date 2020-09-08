@@ -46,7 +46,7 @@ banner = "img/banners/2016.jpg"
 <br>
 #### Zhongxu Zhu
 ##### <p align="center"><img src="/img/testimonials/zhongxu.png" width=250  alt="brain" align=center />
-##### <p align="center">Zhongxu is working on cancer genomics analysis, biomarker development and neoantigen prediction.<br>**PhD Student. M.S in Bioinformatics**
+##### <p align="center">Zhongxu is working on cancer genomics analysis, biomarker development and neoantigen prediction.<br>**PhD Student. M.S in Bioinformatics**
 <br>
 #### (Rayna) Yu CHEN
 ##### <p align="center"><img src="/img/testimonials/rayna.jpg" width=300  alt="brain" align=center />
@@ -66,6 +66,22 @@ banner = "img/banners/2016.jpg"
 <br>
 #### Tan Wu
 ##### <p align="center"><img src="/img/testimonials/tan.jpg" width=250  alt="brain" align=center />
+##### <p align="center">Tan is working on cancer genomics and bioinformatics.<br>**Joint PhD Student with Cornell University**
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+#### Jiang Li 
+##### <p align="center"><img src="/img/testimonials/jiang.jpg" width=250  alt="brain" align=center />
+##### <p align="center">Guiyuan is working on cancer biomarker development. <br>**PhD Student. M.S in Epidemiology and Biostatistics**
+<br>
+#### Lishi Wang
+##### <p align="center"><img src="/img/testimonials/lishi.jpg" width=250  alt="brain" align=center />
+##### <p align="center">Lingli is currently working on method development for cancer subtyping and single-cell sequencing data analysis.<br>**PhD Student. M.S in Statistics**
+<br>
+#### Geng Wang
+##### <p align="center"><img src="/img/testimonials/geng.jpg" width=300  alt="brain" align=center />
+##### <p align="center">Yuni is working on digital pathology based on Artificial Intelligence.<br>**Joint PhD Student with Cornell University.**
+<br>
+#### Xianrui Zhang
+##### <p align="center"><img src="/img/testimonials/rui.jpg" width=250  alt="brain" align=center />
 ##### <p align="center">Tan is working on cancer genomics and bioinformatics.<br>**Joint PhD Student with Cornell University**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
