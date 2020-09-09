@@ -9,7 +9,7 @@ banner = "img/banners/2016.jpg"
 ## 2020 
 <br>
 
-#### · 2020.09 New members: Li Jiang, Wang Lishi, Wang Xiangeng and Zhang Xianrui joined our group as a new PhD student in September! 
+#### · 2020.09 New members: Li Jiang, Wang Lishi, Wang Xiangeng and Zhang Xianrui joined our group as new PhD students in September! 
 
 <br>
 <br>
