@@ -12,7 +12,7 @@ keywords = ["Galary","Photo","Lab","Gathering"]
 #### 2020.09. Happy Teachers' day!
 
 <br>
-<img src="/img/galary/2020teacher.jpg" width= "800" alt="server" align="center">
+<img src="/img/galary/2020teacherv1.jpg" width= "800" alt="server" align="center">
 <img src="/img/galary/giftv2.jpg" width= "800" alt="server" align="center">
 <br><br>
 
