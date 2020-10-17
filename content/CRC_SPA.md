@@ -23,10 +23,10 @@ keywords = ["resources","tutorials","rstudio","CRC-SPA"]
 **17/10/2020**
 
 
-**The Vignette for CRC-SPA: Identification of prognostic spatial organization features in colorectal cancer microenvironment using deep learning on histopathology images could be found [**here**](https://drive.google.com/file/d/1TOeuJVrGdZ1JY2dKViPjr_FFq02bP9xV/view?usp=sharing)**
+**The Vignette for CRC-SPA: Identification of prognostic spatial organization features in colorectal cancer microenvironment using deep learning on histopathology images could be found [**here**](https://drive.google.com/file/d/1k3i56qby3v7V5UgKbUElysLFUzPlbQVc/view?usp=sharing)**
 
 
-**R functions and the data inclduing patient clinical information and tissue classification results could be found [**here**](https://drive.google.com/file/d/1NRbIPXku2IHnHSoUQUeWoKIot8xX3M2w/view)** 
+**R functions and the data inclduing patient clinical information and tissue classification results could be found [**here**](https://drive.google.com/file/d/16G6rNurkvDfPlciMQpoov8XHR7UBDvUW/view?usp=sharing)** 
 
 <br>
 
