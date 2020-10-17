@@ -84,6 +84,12 @@ paginate = 10
   name = "PAGnet"
   url  = "/PAGnet2/"
   parent = "Resources1"
+  
+[[menu.main]]
+  weight = 5
+  name = "CRC-SPA"
+  url  = "/CRC_SPA/"
+  parent = "Resources1"
 
 [[menu.main]]
     name = "Contact"
