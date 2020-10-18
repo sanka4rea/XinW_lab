@@ -12,21 +12,19 @@ keywords = ["resources","tutorials","rstudio","CRC-SPA"]
 
 #### Introduction
 
-**The ecological diversity in the tumor microenvironment influences cancer progression and clinical outcomes of patients. However, the complexity of cellular and tissue components hamper quantitative dissection of the tumor microenvironment. We aimed to develop an efficient and robust artificial intelligence (AI)-empowered framework for the identification of prognostic spatial organization features based on histopathological images.**
+**The ecological diversity in the tumor microenvironment influences cancer progression and clinical outcomes of patients. However, the complexity of cellular and tissue components hampers quantitative dissection of the tumor microenvironment. We developed an efficient and robust framework empowered by artificial intelligence for the identification of prognostic spatial organization features based on histopathological images..**
 
 #### Supplementary materials 
 
-**Supplementary materials for 'Identification of prognostic spatial organization features in colorectal cancer microenvironment using deep learning on histopathology images' (under reviewed)**
+**Supplementary materials for 'Identification of prognostic spatial organization features in colorectal cancer microenvironment using deep learning on histopathology images' (under review)**
 
 **Authors: Lin Qi, Jia Ke, Zhaoliang Yu, Yi Cao, Yuni Lai, Yufeng Chen, Feng Gao, Xin Wang**
 
-**17/10/2020**
+
+**The Vignette including a step-by-step guide: download** [**here**](https://drive.google.com/file/d/1k3i56qby3v7V5UgKbUElysLFUzPlbQVc/view?usp=sharing)
 
 
-**The Vignette for CRC-SPA: Identification of prognostic spatial organization features in colorectal cancer microenvironment using deep learning on histopathology images could be found** [**here**](https://drive.google.com/file/d/1k3i56qby3v7V5UgKbUElysLFUzPlbQVc/view?usp=sharing)
-
-
-**R functions and the data inclduing patient clinical information and tissue classification results could be found**  [**here**](https://drive.google.com/file/d/16G6rNurkvDfPlciMQpoov8XHR7UBDvUW/view?usp=sharing)
+**The source code and data: download**  [**here**](https://drive.google.com/file/d/16G6rNurkvDfPlciMQpoov8XHR7UBDvUW/view?usp=sharing)
 
 <br>
 
