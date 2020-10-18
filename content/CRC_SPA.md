@@ -8,11 +8,10 @@ keywords = ["resources","tutorials","rstudio","CRC-SPA"]
 
 #### **CRC-SPA:** an accurate, robust, and efficient deep learning-based framework for tissue classification of histology slides and quantitative analysis of spatial organization features. Empowered by AI, CRC-SPA provides an automated solution for systematic profiling of tissue architecture in the tumor microenvironment.
 <br>
-<br>
 
 #### Introduction
 
-**The ecological diversity in the tumor microenvironment influences cancer progression and clinical outcomes of patients. However, the complexity of cellular and tissue components hampers quantitative dissection of the tumor microenvironment. We developed an efficient and robust framework empowered by artificial intelligence for the identification of prognostic spatial organization features based on histopathological images..**
+**The ecological diversity in the tumor microenvironment influences cancer progression and clinical outcomes of patients. However, the complexity of cellular and tissue components hampers quantitative dissection of the tumor microenvironment. We developed an efficient and robust framework empowered by artificial intelligence for the identification of prognostic spatial organization features based on histopathological images.**
 
 #### Supplementary materials 
 
