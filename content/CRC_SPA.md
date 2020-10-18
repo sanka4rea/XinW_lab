@@ -20,7 +20,7 @@ keywords = ["resources","tutorials","rstudio","CRC-SPA"]
 **Authors: Lin Qi, Jia Ke, Zhaoliang Yu, Yi Cao, Yuni Lai, Yufeng Chen, Feng Gao, Xin Wang**
 
 
-**The Vignette including a step-by-step guide: download** [**here**](https://drive.google.com/file/d/1k3i56qby3v7V5UgKbUElysLFUzPlbQVc/view?usp=sharing)
+**The Vignette including a step-by-step guide: download** [**here**](https://drive.google.com/file/d/1IfpdarTG5AdXR0KFQ-xgMJnFmmqyuox_/view?usp=sharing)
 
 
 **The source code and data: download**  [**here**](https://drive.google.com/file/d/16G6rNurkvDfPlciMQpoov8XHR7UBDvUW/view?usp=sharing)
