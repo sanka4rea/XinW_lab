@@ -27,7 +27,7 @@ banner = "img/banners/2016.jpg"
 <br>
 <br>
 
-#### · 2020.01 Huang Hao joint the 8th edition of the Global Young Scientists Summit (GYSS) happening in Singapore from 14 to 17 January.
+#### · 2020.01 Huang Hao joined the 8th edition of the Global Young Scientists Summit (GYSS) happening in Singapore from 14 to 17 January.
 
 <img src="/img/news/haogyss.jpg" width= "800" alt="server" align="center">
 <br>
