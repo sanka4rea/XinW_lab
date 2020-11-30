@@ -27,6 +27,12 @@ banner = "img/banners/2016.jpg"
 <br>
 <br>
 
+#### · 2020.01 Huang Hao joint the 8th edition of the Global Young Scientists Summit (GYSS) happening in Singapore from 14 to 17 January.
+
+<img src="/img/news/haogyss.jpg" width= "800" alt="server" align="center">
+<br>
+<br>
+
 #### 2020.01 Our publication "Gene Expression Signature in Surgical Tissues and Endoscopic Biopsies Identifies High-risk T1 Colorectal Cancers" in Gastroenterology was reported in the recent 'Asia Reaseach News' magazine! 
 
 <li><strong>[magazine](https://www.asiaresearchnews.com/magazine/2020-0) </strong></li> 
