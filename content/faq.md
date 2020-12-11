@@ -36,8 +36,8 @@ keywords = ["resources","tutorials","rstudio","galaxy"]
 <br><br>
 ## Servers
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
-### [**Rstudio server:**](http://144.214.26.35:6677/auth-sign-in)
-#### <p align="center">Click [<u>**here**</u>](http://144.214.26.35:6677/auth-sign-in) to access the <u>**Rstudio server**</u> in the Wang Lab. 
+### [**Rstudio server:**](http://144.214.26.67:1087/auth-sign-in)
+#### <p align="center">Click [<u>**here**</u>](http://144.214.26.67:1087/auth-sign-in) to access the <u>**Rstudio server**</u> in the Wang Lab. 
 #### Please contact **xin.wang@cityu.edu.hk** if you need an account.
 <br>
 <img src="/img/server/rstudioserver.png" width= "500" alt="server" align="center">
