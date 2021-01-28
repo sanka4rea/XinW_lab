@@ -52,9 +52,17 @@ banner = "img/banners/2016.jpg"
 ##### <p align="center"><img src="/img/testimonials/rayna.jpg" width=300  alt="brain" align=center />
 ##### <p align="center">Rayna is working on biomarker development based on nanopore sequencing technology.<br>**PhD Student. M.S in Biotherapy**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+#### Guiyuan Han
+##### <p align="center"><img src="/img/testimonials/guiyuan.jpg" width=250  alt="brain" align=center />
+##### <p align="center">Guiyuan is working on cancer biomarker development. <br>**PhD Student. M.S in Epidemiology and Biostatistics**
+<br>
 #### Lingli He
 ##### <p align="center"><img src="/img/testimonials/lingli.jpg" width=250  alt="brain" align=center />
 ##### <p align="center">Lingli is currently working on method development for cancer subtyping and single-cell sequencing data analysis.<br>**PhD Student. M.S in Statistics**
+<br>
+#### Yuni Lai
+##### <p align="center"><img src="/img/testimonials/Yuni.jpg" width=300  alt="brain" align=center />
+##### <p align="center">Yuni is working on digital pathology based on Artificial Intelligence.<br>**Joint PhD Student with Cornell University.**
 <br>
 #### Tan Wu
 ##### <p align="center"><img src="/img/testimonials/tan.jpg" width=250  alt="brain" align=center />
