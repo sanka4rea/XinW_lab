@@ -74,7 +74,7 @@ banner = "img/banners/2016.jpg"
 <br>
 #### Xianrui Zhang
 ##### <p align="center"><img src="/img/testimonials/rui.jpg" width=300  alt="brain" align=center />
-##### <p align="center">Xianrui is currently working on drug screening based on zebrafish brain activity mapping using deep learning methods.<br>** PhD student. B.E. in Control Science and Engineering.**
+##### <p align="center">Xianrui is currently working on drug screening based on zebrafish brain activity mapping using deep learning methods.<br>**PhD student. B.E. in Control Science and Engineering.**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 
 <br><br><br>
