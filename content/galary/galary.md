@@ -1,7 +1,7 @@
 +++
-title = "Galary"
-description = "Galary of Lab"
-keywords = ["Galary","Photo","Lab","Gathering"]
+title = "Gallery"
+description = "Gallery of Lab"
+keywords = ["Gallery","Photo","Lab","Gathering"]
 +++
 
 <div align=center>
