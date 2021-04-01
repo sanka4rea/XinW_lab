@@ -87,6 +87,12 @@ paginate = 10
   
 [[menu.main]]
   weight = 5
+  name = "PSRnet"
+  url  = "/PSRnet/"
+  parent = "Resources1"
+  
+[[menu.main]]
+  weight = 6
   name = "CRC-SPA"
   url  = "/CRC_SPA/"
   parent = "Resources1"
