@@ -4,12 +4,12 @@ description = "QiLin"
 keywords = ["resources","tutorials","rstudio","CRC-SPA"]
 +++
 
-<div align=left>
+<div align=center>
 ## Softwares
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ### **CRC-SPA:** 
-####An accurate, robust, and efficient deep learning-based framework for tissue classification of histology slides and quantitative analysis of spatial organization features. Empowered by AI, CRC-SPA provides an automated solution for systematic profiling of tissue architecture in the tumor microenvironment.
+#### An accurate, robust, and efficient deep learning-based framework for tissue classification of histology slides and quantitative analysis of spatial organization features. Empowered by AI, CRC-SPA provides an automated solution for systematic profiling of tissue architecture in the tumor microenvironment.
 <br>
 
 #### Introduction
@@ -22,7 +22,7 @@ keywords = ["resources","tutorials","rstudio","CRC-SPA"]
 
 #### Supplementary materials 
 
-**Supplementary materials for 'Identification of prognostic spatial organization features in colorectal cancer microenvironment using deep learning on histopathology images' (under review)**
+**Supplementary materials for 'Identification of prognostic spatial organization features in colorectal cancer microenvironment using deep learning on histopathology images'**
 
 **Authors: Lin Qi, Jia Ke, Zhaoliang Yu, Yi Cao, Yuni Lai, Yufeng Chen, Feng Gao, Xin Wang**
 
