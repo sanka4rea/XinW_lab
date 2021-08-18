@@ -26,7 +26,7 @@ banner = "img/banners/2016.jpg"
 #### Yuchen Zhang (PhD Student, 2015.09-2019.08)
 ##### <p align="left"><img src="/img/testimonials/yuchen.png" width=250 alt="yuchen" />
 ##### <p align="left" p style = "margin:0px" p style="line-height:200%">Yuchen started focusing on bioinformatics during master study. He mainly worked on cancer-specific regulatory network inference.<br>
-##### <p align="left">Now: Lecturer at College of Computer Science and Technology, Hangzhou, Zhejiang Province, China
+##### <p align="left">Now: Lecturer at College of Computer Science and Technology, Zhejiang University of Technology, Hangzhou, Zhejiang Province, China
 <br>
 
 #### Ying Li (PhD Student, 2017.09-2020.08)
