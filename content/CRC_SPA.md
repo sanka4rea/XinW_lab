@@ -29,9 +29,6 @@ keywords = ["resources","tutorials","rstudio","CRC-SPA"]
 
 **The Vignette including a step-by-step guide: download** [**here**](https://drive.google.com/file/d/1tgOOSmk1XkHyFdc8HUX6nqlHX18T6Y1_/view?usp=sharing)
 
-
-# **The source code: download**  [**here**](https://drive.google.com/file/d/1_-JkpaiQXrMaDF1H4-hfLi0LNP4tiPPR/view?usp=sharing)
-
 <br>
 
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**

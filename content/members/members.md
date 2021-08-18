@@ -16,10 +16,6 @@ banner = "img/banners/2016.jpg"
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ### PhD Students
 <br>
-#### Yuchen Zhang
-##### <p align="center"><img src="/img/testimonials/yuchen.png" width=250  alt="brain" align=center />
-##### <p align="center">Yuchen started focusing on bioinformatics during master study. Now he is mainly<br>working on cancer-specific regulatory network inference.<br>**PhD Student. M.E in Pattern Recognition**
-<br>
 #### Lina Zhu
 ##### <p align="center"><img src="/img/testimonials/lina.jpg" width=250  alt="brain" align=center />
 ##### <p align="center">Lina is working on HTSanalyzeR2 and biomarker development.<br>**Joint PhD Student with Cornell University.**
@@ -28,9 +24,6 @@ banner = "img/banners/2016.jpg"
 ##### <p align="center"><img src="/img/testimonials/huanghao_v2.jpg" width=350  alt="brain" align=center />
 ##### <p align="center">Hao's research is focused on integrative analysis of ChIP-seq and RNA-seq data to dissect<br>epigenetic regulations in cancer.<br>**Joint PhD Student with Cornell University. M.S in Biophysics**
 <br>
-#### Ying Li
-##### <p align="center"><img src="/img/testimonials/liying.jpg" width=250  alt="brain" align=center />
-##### <p align="center">Ying is currently working on cancer subtyping by linking intra-tumor and inter-tumor heterogeneity.<br>**PhD Student. M.S in Bioinformatics**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 #### Lin Qi
 ##### <p align="center"><img src="/img/testimonials/qilin.jpg" width=250  alt="brain" align=center />
