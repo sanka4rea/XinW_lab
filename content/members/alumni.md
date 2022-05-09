@@ -35,14 +35,14 @@ banner = "img/banners/2016.jpg"
 ##### <p align="left">Now: Lecturer, College of Information and Computer, Taiyuan University of Technology, Shanxi, China 
 <br>
 
-#### Lina Zhu
-##### <p align="center"><img src="/img/testimonials/lina.jpg" width=250  alt="brain" align=center />
-##### <p align="center">Lina is working on HTSanalyzeR2 and biomarker development.<br>**Joint PhD Student with Cornell University.**
+#### Lina Zhu (PhD Student)
+##### <p align="left"><img src="/img/testimonials/lina.jpg" width=250  alt="brain" align=center />
+##### <p align="left">Lina is working on HTSanalyzeR2 and biomarker development.<br>**Joint PhD Student with Cornell University.**
 <br>
 
-#### Hao Huang
-##### <p align="center"><img src="/img/testimonials/huanghao_v2.jpg" width=350  alt="brain" align=center />
-##### <p align="center">Hao's research is focused on integrative analysis of ChIP-seq and RNA-seq data to dissect<br>epigenetic regulations in cancer.<br>**Joint PhD Student with Cornell University. M.S in Biophysics**
+#### Hao Huang (PhD Student)
+##### <p align="left"><img src="/img/testimonials/huanghao_v2.jpg" width=350  alt="brain" align=center />
+##### <p align="left">Hao's research is focused on integrative analysis of ChIP-seq and RNA-seq data to dissect<br>epigenetic regulations in cancer.<br>**Joint PhD Student with Cornell University.**
 <br>
 <br><br><br>
 
