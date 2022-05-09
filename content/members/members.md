@@ -71,15 +71,15 @@ banner = "img/banners/2016.jpg"
 ##### <p align="center">Xianrui is currently working on drug screening based on zebrafish brain activity mapping using deep learning methods.<br>**PhD student. B.E. in Control Science and Engineering.**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 #### Tianhang Chen
-##### <p align="center"><img src="/img/testimonials/tianhang.jpg" width=250  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/tianhang.jpg" width=300  alt="brain" align=center />
 ##### <p align="center">Hang's research is mainly focused on .<br>**PhD student, M.S in Bioinformatics.**
 <br>
 #### Yi Shuai
-##### <p align="center"><img src="/img/testimonials/" width=300  alt="Currently not available" align=center />
+##### <p align="center"><img src="/img/testimonials/" width=250  alt="Currently not available" align=center />
 ##### <p align="center">Yi's research now is mainly about. She is jointly supervised with Prof. Nathalie Wong at the Chinese University of Hong Kong.<br>**Joint PhD student with CUHK.**
 <br>
 #### Zhengqian Ye
-##### <p align="center"><img src="/img/testimonials/zhengqian.jpg" width=300  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/zhengqian.jpg" width=250  alt="brain" align=center />
 ##### <p align="center">Zhengqian's research now is mainly about .<br>**PhD student.**
 <br>
 <br><br><br>
