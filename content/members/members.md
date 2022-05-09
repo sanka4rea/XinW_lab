@@ -9,22 +9,23 @@ banner = "img/banners/2016.jpg"
 ### Dr.Xin Wang 
 <p align="center"><img src="/img/testimonials/xw.jpg" alt="brain" />
 <br>
-##### <p align="center">**Associate Professor, Biomedical Sciences, City University HK**
+##### <p align="center">**Associate Professor, Faculty of Medicine, The Chinese University of Hong Kong**
 ##### <p align="center">**Postdoctoral Fellow**, Harvard Medical School, Supervisor: [Dr. Peter Kharchenko](http://pklab.med.harvard.edu/) 
-##### <p align="center">**PhD**, Department of Oncology and Cancer Research UK Cambridge Institute, University of Cambridge, <br>Supervisor: [Dr. Florian Markowetz](http://www.markowetzlab.org/). <br><br>**Office**: 1B-102, 1/F, Block 1, To Yuen Building <br>**Phone**: +852 3442-2367 <br>**Fax**: +852 3442-0549 <br>**Email**: xin.wang@cityu.edu.hk
-##### <p align="center">[**Department webpage**](http://www.cityu.edu.hk/bms/profile/xinwang.htm)
+##### <p align="center">**PhD**, Department of Oncology and Cancer Research UK Cambridge Institute, University of Cambridge, <br>Supervisor: [Dr. Florian Markowetz](http://www.markowetzlab.org/). <br><br>**Office**: Department of Surgery, Faculty of Medicine, The Chinese University of Hong Kong, Prince of Wales Hospital, Shatin, N.T. <br>**Email**: xwang@surgery.cuhk.edu.hk
+##### <p align="center">[**Department webpage**](https://www.surgery.cuhk.edu.hk/profile.asp?alias=xwang)
+**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
+### Postdoc
+<br>
+#### Kai Song
+##### <p align="center"><img src="/img/testimonials/songkai.jpg" width=250  alt="brain" align=center />
+##### <p align="center">Kai is working on .
+<br>
+#### Hua Xue
+##### <p align="center"><img src="/img/testimonials/xuehua.jpg" width=300  alt="brain" align=center />
+##### <p align="center">Hua is currently focousing on.
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ### PhD Students
 <br>
-#### Lina Zhu
-##### <p align="center"><img src="/img/testimonials/lina.jpg" width=250  alt="brain" align=center />
-##### <p align="center">Lina is working on HTSanalyzeR2 and biomarker development.<br>**Joint PhD Student with Cornell University.**
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
-#### Hao Huang
-##### <p align="center"><img src="/img/testimonials/huanghao_v2.jpg" width=350  alt="brain" align=center />
-##### <p align="center">Hao's research is focused on integrative analysis of ChIP-seq and RNA-seq data to dissect<br>epigenetic regulations in cancer.<br>**Joint PhD Student with Cornell University. M.S in Biophysics**
-<br>
-**---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 #### Lin Qi
 ##### <p align="center"><img src="/img/testimonials/qilin.jpg" width=250  alt="brain" align=center />
 ##### <p align="center">Lin is working on digital pathology by integrative analysis of clinicopathological, molecular<br>and cancer imaging data.<br>**PhD Student. M.E in Pattern Recognition**
