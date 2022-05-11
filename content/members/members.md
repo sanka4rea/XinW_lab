@@ -18,11 +18,11 @@ banner = "img/banners/2016.jpg"
 <br>
 #### Kai Song
 ##### <p align="center"><img src="/img/testimonials/songkai.jpg" width=250  alt="brain" align=center />
-##### <p align="center">Kai is working on .
+##### <p align="center">Kai is working on GI cancer subtyping by integrative analysis of multi-omics data including genome, epigenome and transcriptome.<br>**Postdoctoral fellow at the Chinese University of Hong Kong.**
 <br>
 #### Hua Xue
-##### <p align="center"><img src="/img/testimonials/xuehua.jpg" width=300  alt="Currently not available" align=center />
-##### <p align="center">Hua is currently focousing on.
+##### <p align="center"><img src="/img/testimonials/xuehua.jpg" width=250  alt="Currently not available" align=center />
+##### <p align="center">Xue hua works on drug response prediction with deep learning and machine leaning methods.
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 ### PhD Students
 <br>
@@ -80,7 +80,7 @@ banner = "img/banners/2016.jpg"
 <br>
 #### Zhengqian Ye
 ##### <p align="center"><img src="/img/testimonials/zhengqian.jpg" width=250  alt="brain" align=center />
-##### <p align="center">Zhengqian's research now is mainly about .<br>**PhD student.**
+##### <p align="center">Zhengqian's research is focused on applications of artificial intelligence in cancer imaging and genomics, in particular on biomarkers for cancer diagnosis, treatment response and prognosis, integrating multi-modal images and/or multi-omics data. He has over five years of experience in healthcare industries.<br>**PhD student, M.S in Particle Physics&Nuclear Physics.**
 <br>
 <br><br><br>
 
