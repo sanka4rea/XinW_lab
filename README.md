@@ -1,6 +1,6 @@
-# XinW_lab
-The homepage of Dr. XinWang's Lab in department of Biomedical Science of City University HongKong.
+# Dr. XinWang's Lab
+The homepage of Dr. XinWang's Lab in department of Surgery of the Chinese University of Hong Kong.
 
 https://xinwlab.netlify.app/
 
-© 2020 · Copyright© 2020 Lin QI of Dr.Xin Wang's Lab. zzx. All rights reserved.
+© 2018-2022 · Copyright© 2022 LIN QI of Dr.Xin Wang's Lab. All rights reserved.
