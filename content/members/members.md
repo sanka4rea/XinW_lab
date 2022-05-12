@@ -32,7 +32,7 @@ banner = "img/banners/2016.jpg"
 <br>
 #### Miaomiao Tan
 ##### <p align="center"><img src="/img/testimonials/tmm.jpg" width=300  alt="brain" align=center />
-##### <p align="center">Miaomiao is currently focousing on cancer subtyping classification and prognosis prediction.<br>**PhD Student. M.S in transgenic science**
+##### <p align="center">Miaomiao is currently focousing on integrative analysis of multiomics data to investigate inflammatory diseases and post-transcriptional regulation of pathogenic microorganisms.<br>**PhD Student. M.S in transgenic science**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 #### Yi Cao
 ##### <p align="center"><img src="/img/testimonials/caoyi1.jpg" width=250  alt="brain" align=center />
