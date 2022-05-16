@@ -75,7 +75,7 @@ banner = "img/banners/2016.jpg"
 ##### <p align="center">Hang's research is mainly focused on .<br>**PhD student, M.S in Bioinformatics.**
 <br>
 #### Yi Shuai
-##### <p align="center"><img src="/img/testimonials/" width=250  alt="Currently not available" align=center />
+##### <p align="center"><img src="/img/testimonials/shuaiyi.jpg" width=300  alt="Currently not available" align=center />
 ##### <p align="center">Yi's research now is mainly about. She is jointly supervised with Prof. Nathalie Wong at the Chinese University of Hong Kong.<br>**Joint PhD student with CUHK.**
 <br>
 #### Zhengqian Ye
