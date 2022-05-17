@@ -76,7 +76,7 @@ banner = "img/banners/2016.jpg"
 <br>
 #### Yi Shuai
 ##### <p align="center"><img src="/img/testimonials/shuaiyi.jpg" width=300  alt="Currently not available" align=center />
-##### <p align="center">Yi's research now is mainly about. She is jointly supervised with Prof. Nathalie Wong at the Chinese University of Hong Kong.<br>**Joint PhD student with CUHK.**
+##### <p align="center">Yi focuses on alternative splicing research and immunethreapy, she is co-supervised with Prof. KW Lo at CUHK.<br>**Joint PhD student with CUHK.**
 <br>
 #### Zhengqian Ye
 ##### <p align="center"><img src="/img/testimonials/zhengqian.jpg" width=250  alt="brain" align=center />
