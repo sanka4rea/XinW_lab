@@ -63,11 +63,11 @@ banner = "img/banners/2016.jpg"
 ##### <p align="center">Lishi has started to shown his interest in Bioinformatics since his Master's study. His research now is mainly about developing novel computational methods for cancer neoantigen prediction. He is jointly supervised with Prof. Nathalie Wong at the Chinese University of Hong Kong.<br>**Joint PhD student with CUHK.**
 <br>
 #### Xiangeng Wang
-##### <p align="center"><img src="/img/testimonials/geng.jpg" width=250  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/geng.jpg" width=230  alt="brain" align=center />
 ##### <p align="center">Xiangeng is working on translational bioinformatics and genomics with a focus on developing novel machine learning and artifitial intelligence methods.<br>**PhD Student.**
 <br>
 #### Xianrui Zhang
-##### <p align="center"><img src="/img/testimonials/rui.jpg" width=300  alt="brain" align=center />
+##### <p align="center"><img src="/img/testimonials/rui.jpg" width=250  alt="brain" align=center />
 ##### <p align="center">Xianrui is currently working on drug screening based on zebrafish brain activity mapping using deep learning methods.<br>**PhD student. B.E. in Control Science and Engineering.**
 **---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------**
 #### Tianhang Chen
