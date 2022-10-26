@@ -1,3 +1,6 @@
+Reminder！The source files of the website had been moved to 'https://github.com/xinwang2hms/infiomics'.
+This repository will not update anymore.
+
 # Dr. XinWang's Lab in department of Surgery of CUHK
 The homepage of Dr. XinWang's Lab in department of Surgery of Chinese University of Hong Kong.
 
